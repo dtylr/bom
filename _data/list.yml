@@ -1,0 +1,61 @@
+-
+  name:  Mute Swan 
+  latin: Cygnus olor
+  text:  "Common year-round resident with three/four pairs breeding. Good numbers are present in winter/early spring with a recent maximum of 138 in April 2014. Larger numbers also occur on the nearby Southport Marine Lake (SML) in winter."
+-
+  name:  Bewick’s Swan 
+  latin: Cygnus columbianus bewickii
+  text:  "Formerly a regular winter visitor with for example 330 recorded in January 1978. However, since the late 1980s it has become much less frequent, with a flock of 150 on Rimmer’s Marsh (M1) in January 1998, the largest flock for some ten years. The last record for the reserve itself was of seven in January 2008."
+-
+  name:  Whooper Swan 
+  latin: Cygnus cygnus
+  text:  "The larger Whooper Swan is now much more regular than its congener, with around 2,000 birds wintering at nearby Martin Mere (MMWWT) and on the Fylde. Small numbers occasionally frequent Crossens Outer Marsh, such as 11 on 2nd April 2015. Any wild swans on the reserve are now noteworthy and the largest transient flock for some years, was of 52 on the saltmarsh behind the former Sand Works compound on March 13th 2016."
+-
+  name:  Bean Goose 
+  latin: Anser fabalis
+  text:  "An uncommon migrant accompanying Pink-footed Geese, both races of Bean Goose (*Tundra serrirostris* and *Taiga fabalis*) are now increasingly uncommon, with Taiga Bean the more regular in Lancashire. Only three ‘recent’ records – one in November 1997, one in January 2010 and 13 on the saltmarsh in cold weather on December 21st 2012 - all of the *fabalis* race."
+-
+  name:  Pink-footed Goose 
+  latin: Anser brachyrhynchus
+  text:  "The most abundant grey goose species in autumn and winter; their noisy arrival from Iceland in early September, signals the end of summer and the arrival of winter. 95,013 Pinkfeet were counted on co-ordinated counts in SW Lancashire in October 2015, of which the Marshside count was 20,377. Sizeable flocks of >2,000 birds can be seen on Crossens Outer even as late as early May"
+-
+  name:  White-fronted Goose 
+  latin: Anser albifrons
+  text:  "Both races are now much less frequently recorded, especially the European race albifrons*. However, an influx of *albifrons* occurred in the exceptionally cold winter of 2011/12, with >41 birds on Crossens Outer from January 2nd—April 12th 2012."
+-
+  name:  Lesser White-fronted Goose 
+  latin: Anser erythropus
+  text:  "A 1st winter bird on the saltmarsh with Pink-footed Geese on 19th January 1985 is the only record."
+-
+  name:  Greylag Goose 
+  latin: Anser anser
+  text:  "An increasingly common feral breeding species with seven pairs present 2014. Large flocks are present post breeding, for example 290 on 23rd July 2015, and especially on the nearby Southport Marine Lake (SML) in winter."
+-
+  name:  Snow Goose 
+  latin: Anser caerulescens
+  text:  "A very difficult species to categorise as only around 16 of the 47 records in Lancashire – the first which was on the mosses near Southport from October to December 1958 - are considered to relate to wild birds. The only 'recent' record further to the one present in 1996 (Birds of Marshside, McCarthy, 2000) was of a first-summer bird. It was first recorded at Seaforth in January and commuted between Marshside and Martin Mere MMWWT between May and December 2002. A feral flock of some 24 birds frequented south Lancashire including Marshside and Hesketh Out Marsh from late August 2016."
+-
+  name:   Ross's Goose 
+  latin: Chen rossi
+  text:  "This Category D species has never been accepted as occurring in the UK as a natural wild bird. A first winter, now adult, arrived at Marshside on November 11th 2013 and has been seen each winter since, usually arriving in late October and departing in early April. What is possibly 'our' bird arrived in the lowlands of SW Iceland on April 11th 2016 with large flocks of returning Pink-footed geese, after being previously seen in autumn 2013. It's recorded here for interest only and is not included in the checklist total of 257."
+  highlight: true
+-
+  name:  (Greater) Canada Goose 
+  latin: Branta canadensis
+  text:  "Introduced into Lancashire in 1810, at Lord Derby's Knowsley Hall Estate, the Canada Goose population has exploded, becoming an alien 'pest' species in some places. 16 pairs bred at Marshside in 2015 with several hundred birds present on the nearby SML post breeding and in winter as in the Ribble WeBS count in August 2013, when 473 were counted."
+-
+  name:   Lesser Canada (Cackling) Goose 
+  latin: Branta hutchinsii
+  text:  "The first accepted record for Britain was eventually decided upon by the BOU in March 2016, when the Plex Moss bird in November 1976 became the 601st species recorded in Britain. A bird seen from October 7th to 21st 2012 at MMWWT was later also seen at Marshside on October 25th 2012 (Colin Bushell). The record is still under consideration by the BBRC/BOU"
+-
+  name:  Barnacle Goose 
+  latin: Branta leucopsis
+  text:  "Most wild birds recorded in Lancashire originate from the high arctic Svalbard population, which winters on the Solway. Overshoots are regularly recorded in winter, although the situation is clouded by the presence of local feral breeding populations, such as the >75 birds resident and breeding at Knowsley Hall/ Safari Park and other feral flocks at Martin Mere Wildfowl & Wetlands Trust (MMWWT) reserve."
+-
+  name:  Brent Goose 
+  latin: Branta bernicla
+  text:  "Both pale (*hrota*) and dark-bellied (*bernicla*) races occur, with usually only one/two records per year. The dark-bellied race is more frequent in Lancashire with small wintering flocks regularly present on the Fylde coast at Pilling Lane Ends."
+-
+  name:  Red-breasted Goose 
+  latin: Branta ruficollis
+  text:  "A first-winter bird was found at Fluke Hall on the Fylde on October 24th 2010 and was subsequently seen and photographed at Marshside on November 6th 2010, before moving on to MMWWT and various other sites. It was then present on the Fylde until January 31st 2011 and was accepted by the BBRC as the first wild record for Lancashire. A feral adult was also present at the same time, mostly at MMWWT reserve, but was in the company of feral Barnacles, whereas the 1st-winter bird was with wild Pink-footed Geese."

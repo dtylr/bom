@@ -6,71 +6,53 @@ title: The List
 
 <div class="home">
 
-  <input id="search"  type="text" placeholder="Search the list" autocomplete="off" autofocus>
+    <input id="search"  type="text" placeholder="Search the list" autocomplete="off" autofocus>
 
-  <ul id="bird-list">
-    {% for bird in site.data.list %}
-      <li id="{{ bird.name | slugify }}">
-        <h2>{{ bird.name }} </h2>
-        <h3>({{ bird.latin }}) </h3>
-        <p>{{ bird.text | markdownify }}</p>
-      </li>
-    {% endfor %}
-  </ul>
+    <ul id="bird-list">
+        {% for bird in site.data.list %}
+            <li id="{{ bird.name | slugify }}">
+                <h2>{{ bird.name }} </h2>
+                <h3>({{ bird.latin }}) </h3>
+                <p>{{ bird.text | markdownify }}</p>
+            </li>
+        {% endfor %}
+    </ul>
 
-  <script src = "http://code.jquery.com/jquery-3.1.1.slim.min.js"></script>
-  <script>
-      function slugify(Text)  // http://stackoverflow.com/a/1054862
-      {
-          return Text
-              .toLowerCase()
-              .replace(/[^\w ]+/g,'')
-              .replace(/ +/g,'-')
-              ;
-      }
+<script>
+var searchBox = document.getElementById("search");
+var list = document.getElementById("bird-list");
+var items = list.getElementsByTagName("li");
 
-      $("#search").keyup(function(){
-        var term = slugify($(this).val());
-          if (term) {
-            $("li").hide();
-            $("li[id*='"+ term +"']").show();
-          } else {
-            $("li").show();
-          }
-      });
+function slugify(Text) {
+    return Text
+        .toLowerCase()
+        .replace(/[^\w]+/g, " ")
+        .replace(/\s+/g, "-");
+}
 
+function showAll() {
+        for (var i = 0; i < items.length; i++) { 
+        items[i].style.display = "";
+    }
+}
 
-
-/*
-
-To-do:
-
-  - restyle input to not show previous values
-  - tooltips for abbreviations
-    - dictionary as datafile
-    - 
-
-*/
-
-
-
-
-
-
-    // $(function(
-      // var birdList = $("#bird-list")
-      //        .find("li") //Find the bird names
-      //        .map(function() { return this.id; }) //Project Ids
-      //        .get(); //ToArray
-      // $(document.body).append(birdList);
-
-      
-      // ))
-
-
-
-
-
-  </script>
+function show(Text) {
+        for (var i = 0; i < items.length; i++) {
+            if ( items[i].getAttribute("id").indexOf(Text) !== -1 ) {
+                items[i].style.display = "";
+            } else {
+                items[i].style.display = "none";
+            }
+    }
+}
+searchBox.onkeyup = function(evt) {
+    var term = slugify(searchBox.value);
+        if (term) {
+            show(term);
+        } else {
+            showAll();
+        }
+};
+</script>
 
 </div>

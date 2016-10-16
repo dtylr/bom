@@ -100,6 +100,8 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    background: $grey-color-light;
+    border-top: 1px solid black;
 }
 
 .footer-heading {
@@ -175,24 +177,24 @@
     font-size: 20px;
 }
 
-.post-list {
-    margin-left: 0;
-    list-style: none;
+// .post-list {
+//     margin-left: 0;
+//     list-style: none;
 
-    > li {
-        margin-bottom: $spacing-unit;
-    }
-}
+//     > li {
+//         margin-bottom: $spacing-unit;
+//     }
+// }
 
-.post-meta {
-    font-size: $small-font-size;
-    color: $grey-color;
-}
+// .post-meta {
+//     font-size: $small-font-size;
+//     color: $grey-color;
+// }
 
-.post-link {
-    display: block;
-    font-size: 24px;
-}
+// .post-link {
+//     display: block;
+//     font-size: 24px;
+// }
 
 
 #search {

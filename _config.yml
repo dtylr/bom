@@ -9,13 +9,15 @@
 title: Birds of Marshside
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  An annotated checklist of the of the BOU Category A, B & C species 
+  that have been recorded within and/or from the recording area of Marshside RSPB Reserve.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  
 
 # Build settings
 markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed

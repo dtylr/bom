@@ -12,9 +12,9 @@
 
 .site-title {
     font-size: 26px;
-    font-weight: 300;
+    font-weight: 600;
     line-height: 56px;
-    letter-spacing: -1px;
+    // letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
 
@@ -195,48 +195,72 @@
 }
 
 
+#search {
+
+    font-size: 20px;
+    @extend %vertical-rhythm;
+    width: 100%;
+}
+
+/*
+ * bird-list
+ */
+
+#bird-list {
+    list-style: none;
+    margin-left: 0;
+    h2, h3 {
+        display: inline;
+    }
+    h3 {
+        font-style: italic;
+        color: $grey-color;
+    }
+}
+
+
 
 /**
  * Posts
  */
-.post-header {
-    margin-bottom: $spacing-unit;
-}
+// .post-header {
+//     margin-bottom: $spacing-unit;
+// }
 
-.post-title {
-    font-size: 42px;
-    letter-spacing: -1px;
-    line-height: 1;
+// .post-title {
+//     font-size: 42px;
+//     letter-spacing: -1px;
+//     line-height: 1;
 
-    @include media-query($on-laptop) {
-        font-size: 36px;
-    }
-}
+//     @include media-query($on-laptop) {
+//         font-size: 36px;
+//     }
+// }
 
-.post-content {
-    margin-bottom: $spacing-unit;
+// .post-content {
+//     margin-bottom: $spacing-unit;
 
-    h2 {
-        font-size: 32px;
+//     h2 {
+//         font-size: 32px;
 
-        @include media-query($on-laptop) {
-            font-size: 28px;
-        }
-    }
+//         @include media-query($on-laptop) {
+//             font-size: 28px;
+//         }
+//     }
 
-    h3 {
-        font-size: 26px;
+//     h3 {
+//         font-size: 26px;
 
-        @include media-query($on-laptop) {
-            font-size: 22px;
-        }
-    }
+//         @include media-query($on-laptop) {
+//             font-size: 22px;
+//         }
+//     }
 
-    h4 {
-        font-size: 20px;
+//     h4 {
+//         font-size: 20px;
 
-        @include media-query($on-laptop) {
-            font-size: 18px;
-        }
-    }
-}
+//         @include media-query($on-laptop) {
+//             font-size: 18px;
+//         }
+//     }
+// }

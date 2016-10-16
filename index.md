@@ -1,29 +1,24 @@
 ---
 layout: default
+title: The List
 ---
-
 <img src="img/dunlin1.jpg" alt="">
 
 <div class="home">
 
-  <h1 class="page-heading">Systematic List</h1>
-
-  <input id="search">
+  <input id="search"  type="text" placeholder="Search the list" autocomplete="off" autofocus>
 
   <ul id="bird-list">
     {% for bird in site.data.list %}
       <li id="{{ bird.name | slugify }}">
-        <h2>{{ bird.name }}</h2>
-        <h3>{{ bird.latin }} </h3>
+        <h2>{{ bird.name }} </h2>
+        <h3>({{ bird.latin }}) </h3>
         <p>{{ bird.text | markdownify }}</p>
       </li>
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-
-  <script src = "http://code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script src = "http://code.jquery.com/jquery-3.1.1.slim.min.js"></script>
   <script>
       function slugify(Text)  // http://stackoverflow.com/a/1054862
       {
@@ -43,6 +38,25 @@ layout: default
             $("li").show();
           }
       });
+
+
+
+/*
+
+To-do:
+
+  - restyle input to not show previous values
+  - tooltips for abbreviations
+    - dictionary as datafile
+    - 
+
+*/
+
+
+
+
+
+
     // $(function(
       // var birdList = $("#bird-list")
       //        .find("li") //Find the bird names

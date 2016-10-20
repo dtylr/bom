@@ -15,12 +15,16 @@ All but six of the species are British Ornithological Union (BOU) Category A, (t
 
 Greylag Goose, Ruddy Duck, Red-legged Partridge and Feral Pigeon are all Category C species, which although originally introduced by man, currently derive from subsequent self-sustaining populations.
 
-The only BOU Category D species, Ross's Goose, is a species which would have appeared in Category A, except that there is reasonable doubt that it has have ever occurred in a natural state im the UK and as such is not counted in the above total. Category E species—introductions, human-assisted transportations or escapees from captivity—are also not included, perhaps the most notable of which were a pair of Harris Hawks that nested just off the reserve at Banks.
+The only BOU Category D species, Ross's Goose, is a species which would have appeared in Category A, except that there is reasonable doubt that it has have ever occurred in a natural state in the UK and as such is not counted in the above total. Category E species—introductions, human-assisted transportations or escapees from captivity—are also not included, perhaps the most notable of which were a pair of Harris Hawks that nested just off the reserve at Banks.
 
 Records highlighted in yellow have not been included in the current species total and only those records fully accepted by the Lancashire Birds Records Committee (LBRC) or the British Birds Rarities Committee (BBRC) are included in the total of 257.
 
-# ACKNOWLEDGEMENTS
+## ACKNOWLEDGEMENTS
 
 Without constant reference to the invaluable *Birds of Marshside*, Barry McCarthy, Hobby Publications, 2001; the annual *Lancashire Bird Reports* 2000—2015 and the superb *Birds of Lancashire & North Merseyside*, Hobby Publications, 2005, I could never have even attempted this updated checklist and any errors contained within are entirely mine.
 
 My grateful thanks also go to those who regularly post their sightings on the Ribble Estuary Facebook Page. Thanks also to those knowledgeable fellow birders who have reviewed and commented on this updated checklist – you know who you are…
+
+## WEB EDITION
+
+Web edition developed and maintained by David Tyler.

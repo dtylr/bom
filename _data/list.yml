@@ -1,61 +1,1060 @@
 -
-  name:  Mute Swan 
+  name:  Mute Swan
   latin: Cygnus olor
   text:  "Common year-round resident with three/four pairs breeding. Good numbers are present in winter/early spring with a recent maximum of 138 in April 2014. Larger numbers also occur on the nearby Southport Marine Lake (SML) in winter."
 -
-  name:  Bewick’s Swan 
+  name:  Bewick's Swan
   latin: Cygnus columbianus bewickii
-  text:  "Formerly a regular winter visitor with for example 330 recorded in January 1978. However, since the late 1980s it has become much less frequent, with a flock of 150 on Rimmer’s Marsh (M1) in January 1998, the largest flock for some ten years. The last record for the reserve itself was of seven in January 2008."
+  text:  "Formerly a regular winter visitor with for example 330 recorded in January 1978. However, since the late 1980s it has become much less frequent, with a flock of 150 on Rimmer's Marsh (M1) in January 1998, the largest flock for some ten years. The last record for the reserve itself was of seven in January 2008."
 -
-  name:  Whooper Swan 
+  name:  Whooper Swan
   latin: Cygnus cygnus
-  text:  "The larger Whooper Swan is now much more regular than its congener, with around 2,000 birds wintering at nearby Martin Mere (MMWWT) and on the Fylde. Small numbers occasionally frequent Crossens Outer Marsh, such as 11 on 2nd April 2015. Any wild swans on the reserve are now noteworthy and the largest transient flock for some years, was of 52 on the saltmarsh behind the former Sand Works compound on March 13th 2016."
+  text:  "The larger Whooper Swan is now much more regular than its congener, with around 2,000 birds wintering at nearby Martin Mere (MMWWT) and on the Fylde. Small numbers occasionally frequent Crossens Out Marsh, such as 11 on 2nd April 2015. Any wild swans on the reserve are now noteworthy and the largest transient flock for some years was of 52 on the saltmarsh behind the former Sand Works compound on March 13th 2016."
 -
-  name:  Bean Goose 
+  name:  Bean Goose
   latin: Anser fabalis
-  text:  "An uncommon migrant accompanying Pink-footed Geese, both races of Bean Goose (*Tundra serrirostris* and *Taiga fabalis*) are now increasingly uncommon, with Taiga Bean the more regular in Lancashire. Only three ‘recent’ records – one in November 1997, one in January 2010 and 13 on the saltmarsh in cold weather on December 21st 2012 - all of the *fabalis* race."
+  text:  "An uncommon migrant accompanying Pink-footed Geese, both races of Bean Goose (Tundra _serrirostris_ and Taiga _fabalis_) are now increasingly uncommon, with Taiga Bean the more regular in Lancashire. Only three 'recent' records – one in November 1997, one in January 2010 and 13 on the saltmarsh in cold weather on December 21st 2012 -- all of the _fabalis_ race."
 -
-  name:  Pink-footed Goose 
+  name:  Pink-footed Goose
   latin: Anser brachyrhynchus
-  text:  "The most abundant grey goose species in autumn and winter; their noisy arrival from Iceland in early September, signals the end of summer and the arrival of winter. 95,013 Pinkfeet were counted on co-ordinated counts in SW Lancashire in October 2015, of which the Marshside count was 20,377. Sizeable flocks of >2,000 birds can be seen on Crossens Outer even as late as early May"
+  text:  "The most abundant grey goose species in autumn and winter; their noisy arrival from Iceland in early September, signals the end of summer and the arrival of winter. 95,013 Pinkfeet were counted on co-ordinated counts in SW Lancashire in October 2015, of which the Marshside count was 20,377. Sizeable flocks of &gt;2,000 birds can still be seen on Crossens Out Marsh at the end of April until early May"
 -
-  name:  White-fronted Goose 
+  name:  White-fronted Goose
   latin: Anser albifrons
-  text:  "Both races are now much less frequently recorded, especially the European race *albifrons*. However, an influx of *albifrons* occurred in the exceptionally cold winter of 2011/12, with >41 birds on Crossens Outer from January 2nd—April 12th 2012."
+  text:  "Both races are now much less frequently recorded, especially the European race _albifrons_. However, an influx of _albifrons_ occurred in the exceptionally cold winter of 2011/12, with &gt;41 birds on Crossens Out Marsh]] from January 2nd–April 12th 2012."
 -
-  name:  Lesser White-fronted Goose 
+  name:  Lesser White-fronted Goose
   latin: Anser erythropus
   text:  "A 1st winter bird on the saltmarsh with Pink-footed Geese on 19th January 1985 is the only record."
 -
-  name:  Greylag Goose 
+  name:  Greylag Goose
   latin: Anser anser
-  text:  "An increasingly common feral breeding species with seven pairs present 2014. Large flocks are present post breeding, for example 290 on 23rd July 2015, and especially on the nearby Southport Marine Lake (SML) in winter."
+  text:  "An increasingly common feral breeding species with seven pairs present 2014. Large flocks are present post breeding, for example 290 on 23rd July 2015 and especially on the nearby Southport Marine Lake (SML) in winter."
 -
-  name:  Snow Goose 
+  name:  Snow Goose
   latin: Anser caerulescens
-  text:  "A very difficult species to categorise as only around 16 of the 47 records in Lancashire – the first which was on the mosses near Southport from October to December 1958 - are considered to relate to wild birds. The only 'recent' record further to the one present in 1996 (Birds of Marshside, McCarthy, 2000) was of a first-summer bird. It was first recorded at Seaforth in January and commuted between Marshside and Martin Mere MMWWT between May and December 2002. A feral flock of some 24 birds frequented south Lancashire including Marshside and Hesketh Out Marsh from late August 2016."
+  text:  "A very difficult species to categorise as only around 16 of the 47 records in Lancashire -- the first which was on the mosses near Southport from October to December 1958 -- are considered to relate to wild birds. The only 'recent' record further to the one present in 1996 Birds of Marshside,_ McCarthy, 2000_ was of a first-summer bird. It was first recorded at Seaforth in January and commuted between Marshside and Martin Mere MMWWT between May and December 2002. A feral flock of some 24 birds frequented south Lancashire including Marshside and Hesketh Out Marsh from late August 2016."
 -
-  name:   Ross's Goose 
+  name:  Ross's Goose
   latin: Chen rossi
   text:  "This Category D species has never been accepted as occurring in the UK as a natural wild bird. A first winter, now adult, arrived at Marshside on November 11th 2013 and has been seen each winter since, usually arriving in late October and departing in early April. What is possibly 'our' bird arrived in the lowlands of SW Iceland on April 11th 2016 with large flocks of returning Pink-footed geese, after being previously seen in autumn 2013. It's recorded here for interest only and is not included in the checklist total of 257."
-  highlight: true
+  highlight: yellow
 -
-  name:  (Greater) Canada Goose 
+  name:  (Greater) Canada Goose
   latin: Branta canadensis
-  text:  "Introduced into Lancashire in 1810, at Lord Derby's Knowsley Hall Estate, the Canada Goose population has exploded, becoming an alien 'pest' species in some places. 16 pairs bred at Marshside in 2015 with several hundred birds present on the nearby SML post breeding and in winter as in the Ribble WeBS count in August 2013, when 473 were counted."
+  text:  "Introduced into Lancashire in 1810, at Lord Derby's Knowsley Hall Estate, the Canada Goose population has exploded, becoming an alien 'pest'; species in some places. 16 pairs bred at Marshside in 2015 with several hundred birds present on the nearby SML post breeding and in winter as during the Ribble WeBS count in August 2013, when 473 were counted."
 -
-  name:   Lesser Canada (Cackling) Goose 
+  name:  Lesser Canada (Cackling) Goose
   latin: Branta hutchinsii
-  text:  "The first accepted record for Britain was eventually decided upon by the BOU in March 2016, when the Plex Moss bird in November 1976 became the 601st species recorded in Britain. A bird seen from October 7th to 21st 2012 at MMWWT was later also seen at Marshside on October 25th 2012 (Colin Bushell). The record is still under consideration by the BBRC/BOU"
+  text:  "The first accepted record for Britain was eventually decided upon by the BOU in March 2016. The Plex Moss bird in November 1976 became the 601st species recorded in Britain; another seen from October 7th to 21st 2012 at MMWWT was at Marshside on October 25th 2012 (Colin Bushell). The record is still under consideration by the BBRC/BOU."
+  highlight: yellow
 -
-  name:  Barnacle Goose 
+  name:  Barnacle Goose
   latin: Branta leucopsis
-  text:  "Most wild birds recorded in Lancashire originate from the high arctic Svalbard population, which winters on the Solway. Overshoots are regularly recorded in winter, although the situation is clouded by the presence of local feral breeding populations, such as the >75 birds resident and breeding at Knowsley Hall/ Safari Park and other feral flocks at Martin Mere Wildfowl & Wetlands Trust (MMWWT) reserve."
+  text:  "Most wild birds recorded in Lancashire originate from the high arctic Svalbard population, which winters on the Solway. Overshoots are regularly recorded in winter, although the situation is clouded by the presence of local feral breeding populations, such as the &gt;75 birds resident and breeding at Knowsley Hall/ Safari Park and other feral flocks at Martin Mere Wildfowl &amp; Wetlands Trust (MMWWT) reserve."
 -
-  name:  Brent Goose 
+  name:  Brent Goose
   latin: Branta bernicla
-  text:  "Both pale (*hrota*) and dark-bellied (*bernicla*) races occur, with usually only one/two records per year. The dark-bellied race is more frequent in Lancashire with small wintering flocks regularly present on the Fylde coast at Pilling Lane Ends."
+  text:  "Both pale (_hrota_) and dark-bellied (_bernicla_) races occur, with usually only one/two records per year. The dark-bellied race is more frequent in Lancashire with small wintering flocks regularly present on the Fylde coast at Pilling Lane Ends."
 -
-  name:  Red-breasted Goose 
+  name:  Red-breasted Goose
   latin: Branta ruficollis
   text:  "A first-winter bird was found at Fluke Hall on the Fylde on October 24th 2010 and was subsequently seen and photographed at Marshside on November 6th 2010, before moving on to MMWWT and various other sites. It was then present on the Fylde until January 31st 2011 and was accepted by the BBRC as the first wild record for Lancashire. A feral adult was also present at the same time, mostly at MMWWT reserve, but was in the company of feral Barnacles, whereas the 1st-winter bird was with wild Pink-footed Geese."
+-
+  name:  Shelduck
+  latin: Tadorna tadorna
+  text:  "Ten pairs bred in 2015 and 5,415 were recorded on the Ribble WeBS count in November the same year. The adults are too large to be preyed upon by most raptors, but one young bird was drowned and then very messily eaten by a Great Black-backed Gull in front of Sandgrounders Hide in winter 2015."
+-
+  name:  Wigeon
+  latin: Anas penelope
+  text:  "The Ribble Estuary is the most important site in the UK for wintering Wigeon, with 34,367 counted on the Ribble WeBS count in December 2015. A significant proportion of these birds frequent Rimmer's Marsh (formerly M1) &amp; Sutton's Marsh (formerly M2) and the adjacent salt marshes. Small numbers over-summer in most years, as dis a pair in 2016, but there has been no evidence of breeding."
+-
+  name:  American Wigeon
+  latin: Anas americana
+  text:  "The first record was of a pair between April 24th and May 6th 1996, although as always the identification of the duck is problematical. Since then there have been seven further records between October and June, all drakes. The most recent record is of another drake, seen intermittently with Eurasian Wigeon on Crossens Out Marsh and other locations, since October 5th 2016."
+-
+  name:  Gadwall
+  latin: Anas strepera
+  text:  "A very healthy 18 pairs nested in 2015 with 50 recorded at Marshside on the December WeBS count in the same year. This has not always been the case. The first record was in April 1980 and the first breeding was not confirmed until 1995, when three pairs nested."
+-
+  name:  Baikal Teal
+  latin: Anas formosa
+  text:  "Only the 6th UK record and not surprisingly the first for Lancashire involved a well watched drake amongst the flocks of Eurasian Teal, adjacent to Crossens Sluice and Crossens Inner Marsh, between November 30th – December 11th 2013."
+-
+  name:  Eurasian Teal
+  latin: Anas crecca
+  text:  "The second most numerous duck after Wigeon in winter, with 5,089 counted on the Ribble Estuary WeBS in January 2015. Two to four pairs have bred in recent years, but like most wintering wildfowl in the UK, numbers are gradually declining."
+-
+  name:  Green-winged Teal
+  latin: Anas carolinensis
+  text:  "First recorded on January 6th 1982, one or two drakes of this North American species are usually discovered each year within the large flocks of wintering Eurasian Teal. The most recent record was of a drake present on Crossens Out Marsh on March 3rd 2014."
+-
+  name:  Mallard
+  latin: Anas platyrhynchos
+  text:  "The commonest breeding duck with 36 pairs nesting in 2014. Winter migrant numbers have declined with 1,296 recorded on the Ribble WeBS in November 2015."
+-
+  name:  Pintail
+  latin: Anas acuta
+  text:  "With a maximum 1481 on the Ribble WeBS count in January 2015, numbers of this handsome duck have also declined significantly from its former winter abundance; for example, 4,700 were present in December 1984. Sometimes a drake or a pair over-summers."
+-
+  name:  Garganey
+  latin: Anas querquedula
+  text:  "The return of our only migrant breeding duck is eagerly awaited from early April onwards, with the earliest recorded on March 13th 1977. Records have become more regular in the last decade, with multiple sightings of up to four drakes in May and early June, usually on Rimmer's Marsh. In late May 1992, a nest with at least six eggs was discovered and it's likely that breeding is at least attempted in most years. At dusk on Friday July 1st 2016, a duck with nine ducklings swam out to feed on Rimmer's Marsh and were seen again two days later."
+-
+  name:  Blue-winged Teal
+  latin: Anas discors
+  text:  "A short-staying eclipse male onJunction Pool, Rimmer's Marsh on September 16th 2012 is the only record of this North American vagrant."
+-
+  name:  Shoveller
+  latin: Anas clypeata
+  text:  "Although present year-round, the Shoveller is a scarce and localised breeding species in the UK with a nationally important 12 pairs breeding at Marshside in 2015 after 249 were counted on the Ribble WeBS in January the same year."
+-
+  name:  Pochard
+  latin: Aythya farina
+  text:  "Always uncommon, this diving duck prefers larger and deeper water bodies, such as SML, Martin Mere WWT and Leighton Moss. Another declining wintering species, the occurrence of small parties of two/three birds, usually on Rainford's lagoon, as in winter 2015/6, is now a noteworthy event. Formerly much more numerous, with 120 counted on the January 2008 Ribble WeBS survey for example."
+-
+  name:  Tufted Duck
+  latin: Aythya fuligula
+  text:  "A recently established breeding species with 15 pairs nesting in 2015. This compares with 1998, when only one pair was confirmed breeding -- for the first time. 124 were noted on the Ribble WeBS count in December 2015, but a further 100 plus regularly winter on the nearby Hesketh Park Lake."
+-
+  name:  Scaup
+  latin: Aythya marila
+  text:  "More often seen offshore in former years, they are recently more frequent in winter, both on Rainford's lagoon and on the extensive floods on Rimmer's Marsh. Two first winter drakes and a female wintered in 2015/6, usually favouring the deeper water of Junction and Fairclough's Pools, where a pair stayed until the first days of May."
+-
+  name:  Lesser Scaup
+  latin: Aythya affinis
+  text:  "A drake, which frequented Rainford'sLagoon from March 19th–April 23rd 2011 is the only record. It had been present for some days and was assumed to be a drake (Greater) Scaup, before being correctly identified by a more experienced, local birder."
+-
+  name:  Eider
+  latin: Somateria mollissima
+  text:  "Colonists from the large Morecambe Bay population, around a dozen pairs now nest on the south Ribble Marshes. Consequently high tide sightings of Eider from the former Sand Works compound (aka MBO) are now fairly regular."
+-
+  name:  Harlequin Duck
+  latin: Histrionicus histrionicus
+  text:  "Lancashire's only record is of a drake shot at Crossens Sluice in January 1916/7. They were not kept captive at that time and a wild origin was assumed. Another vagrant duck (Baikal Teal) turned up at the same location 97 years later."
+-
+  name:  Long-tailed Duck
+  latin: Clangula hyemalis
+  text:  "A scarce visitor to the flooded marsh pools in winter, with only four records (one offshore) up to 2000. There's only been four since, with the latest, a 1st year male, resident on Junction Pool from November 15th 2013 until May 5th 2014, by which time it had acquired its superb summer plumage, including a long tail, and was seen displaying to female Tufted Ducks."
+-
+  name:  Common Scoter
+  latin: Melanitta nigra
+  text:  "Although recorded in huge numbers (est. 40,000 plus) off the Fylde coast in winter with smaller flocks off Formby Point, only very few are recorded offshore from Marshside. Occasional birds turn up on Rainford's Lagoon and other freshwater pools, the last was a drake on Junction Pool on April 29th 2014."
+-
+  name:  Velvet Scoter
+  latin: Melanitta fusca
+  text:  "The only records are of a drake on the rising tide off then operating Sand Plant on December 29th 1978 and a female at the same location on January 4th 2007."
+-
+  name:  Goldeneye
+  latin: Bucephala clangula
+  text:  "This rapidly declining wintering sawbill, which has never been common on the freshwater marshes, with most pre-2000 records of offshore birds. The regular wintering flock on SML recently declined from a maximum of 54 on January 18th 2012, to around a dozen in winter 2015/16. There have been no records from or on the reserve itself since 1998."
+-
+  name:  Smew
+  latin: Mergus albellus
+  text:  "The only record is of a female/juvenile male 'redhead' on May 18th 2005."
+-
+  name:  Red-breasted Merganser
+  latin: Mergus serrator
+  text:  " Always scarce on the southSefton coast, this species has only been recorded offshore from Marshside on very few occasions prior to 2000 or since."
+-
+  name:  Goosander
+  latin: Mergus merganser
+  text:  "Like the Red-breasted Merganser, theGoosander is only very rarely recorded, with only six verified sightings in the last 45 years. The last was of a drake on a small pond on Hesketh Golf Course on May 6th 2007, but as they are now breeding regularly on the Yarrow/Douglas, perhaps more sightings are likely."
+-
+  name:  Ruddy Duck
+  latin: Oxyura jamaicensis
+  text:  "Introduced at Slimbridge WWT from North America in the mid-1950s, the Ruddy Duck soon became an unwanted alien species, competing with the native European White-headed Duck and the subject of a determined eradication programme since the early 1990s, which appears to have been successful. The last breeding record was of two pairs in 2007 and the last ever record was of a female on Rainford's lagoon from April 5th–June 27th 2010. RIP."
+-
+  name:  Quail
+  latin: Coturnix coturnix
+  text:  "With only five records pre-2000, Quail are very infrequent visitors. Occasional influxes do occur in cereal fields on the moss lands around Southport, but the only recent record is of one, possibly two, calling from the saltmarsh from the Old Sand Works truck road on May 31st and June 14th 2014."
+-
+  name:  Red-legged Partridge
+  latin: Alectoris rufa
+  text:  "This non-native species is now widely introduced for shooting, especially on the southwest Lancashire mosses. There were only two records prior to 2000, but in recent years birds have been reported with more regularity, replacing our native Grey Partridge."
+-
+  name:  Grey Partridge
+  latin: Perdix perdix
+  text:  " In the late 1970s the Grey Partridge was a fairly common breeding resident of both the fresh and saltmarshes, but from 1992 no count exceeded 20 birds. Up to 2013, at least three pairs were present, two around the Old Sand Plant compound and another near Crossens, but recent re-developments have meant their disappearance too."
+-
+  name:  Pheasant
+  latin: Phasianus colchicus
+  text:  "First recorded on Hesketh Golf Coursein 1992, numbers have increased considerably on the drier margins of Marshside, The current population probably exceeds six pairs and it's now difficult not to come across them on any visit to the reserve."
+-
+  name:  Red-throated Diver
+  latin: Gavia stellata
+  text:  "With only two records up to 2000, this species remains an infrequent offshore visitor. The only records since are of an exceptional flock of 11, which flew north in foggy conditions on March 4th 2003 and two adults that flew low overhead the former Sand Plant compound (aka Marshside Bird Observatory MBO) at dawn on May 16th 2013, before gaining height and heading towards the Ribble Valley."
+-
+  name:  Black-throated Diver
+  latin: Gavia arctica
+  text:  "One on Crossens Channel onOctober 7th 1967 is the only record."
+-
+  name:  Fulmar 
+  latin: Fulmarus glacialis
+  text:  "A very scarce offshore visitor. The only 'recent' records are of one offshore on October 21st 2008 and an adult disturbed from the banks of the former sand plant on April 12th 2012."
+-
+  name:  Manx Shearwater
+  latin: Puffinus puffinus
+  text:  "Experienced local 'sea watchers' have assured me that they have definitely been recorded offshore since the publication of the _'Birds of Marshside'_ B. McCarthy, Hobby, 2000."
+-
+  name:  Leach's Petrel
+  latin: Oceanodroma leucorhoa
+  text:  "Although a regularSeptember/October passage occurs south through the Irish Sea, gale force WNW winds are required for several days before they are driven close inshore and can be reasonably expected to be seen. One being blown into the Ribble in the Christmas Day gale of 2001 was most unexpected."
+-
+  name:  Gannet
+  latin: Morus bassanus
+  text:  "Regularly recorded on summer and autumn sea-watches, albeit well offshore, but odd birds have also been recorded flying over the marsh and heading inland."
+-
+  name:  Cormorant
+  latin: Phalacrocorax carbo
+  text:  "A frequent visitor to Rainford's lagoon, where eels seem to be readily obtainable. Winter high tide roosts have seen increasing numbers on Crossens Out saltmarsh, with over 1,000 birds present on several occasions in recent years."
+-
+  name:  Bittern
+  latin: Botaurus stellaris
+  text:  "There have been only two sightings in the last 20 years. One flew inland over Crossens Inner on the evening of October 22nd 1997 and another frequented Crossens Out Marsh from January 20th-February 7th, during the surprisingly cold and icy winter of 2010.."
+-
+  name:  Cattle Egret
+  latin: Bubulcus ibis
+  text:  "The first for Marshside and only the secondc ounty record was of a short staying adult on July 20th 2000. Another was seen on October 27/28th and November 7th 2008. The most recent is of an adult from July 23rd – to October 23rd 2016, which was joined by two others on October 7th."
+-
+  name:  Little Egret
+  latin: Egretta garzetta
+  text:  "Prior to 2000, there were just eight records of some 11 individuals with the first on August 9th 1993. Since 2000, the population has exploded, so that currently up to 60 birds regularly roost on the islands in SML, where at least five pairs bred in 2016, producing a minimum seven young. It's now almost impossible to visit Marshside at any time of year without seeing this formerly scarce migrant to the reserve."
+-
+  name:  Great White Egret
+  latin: Ardea alba
+  text:  "The first record for Lancashire was of a bird on Crossens Marsh from October 16th – 21s 2001. Since 2010 sightings have been almost commonplace, with two/three birds almost continually present on the outer Ribble marshes, especially in autumn and winter and roosting with the Little Egrets at SML."
+-
+  name:  Grey Heron
+  latin: Ardea cinerea
+  text:  "Our nearest heronry is on Churchtown Moss and Grey Herons are frequent visitors to the fresh water marshes at all times of the year, especially after the breeding season."
+-
+  name:  Purple Heron
+  latin: Ardea purpurea
+  text:  "A sub-adult, flew northwest over Crossens on May 9th 1979. Unlike other expanding 'southern' heron species, it remains a very rare bird throughout the UK. Nine of the other ten sightings in Lancashire were all at Leighton Moss in the 1970s."
+-
+  name:  Black Stork
+  latin: Ciconia nigra
+  text:  "An adult, which flew north over Sutton's Marsh on June 8th 2006, was the first and only record for the reserve."
+-
+  name:  White Stork
+  latin: Ciconia ciconia
+  text:  "With two records prior to 2000, this species was considered to be a rare early spring migrant, including the first record for Lancashire, which flew north over Marshside on April 4th 1961. Despite several likely records since 2000, all recent records of White Stork are now considered to be from the captive, but free flying population resident at Harewood House in West Yorkshire – unless their wild origin can be proven otherwise."
+-
+  name:  Glossy Ibis
+  latin: Plegadis falcinellus
+  text:  "The first dropped in at Martin Mere WWT reserve on September 20th 2006 before spending over two years in and around Marshside, until last recorded on December 19th 2008. Records since are of three juveniles on Rimmer's on October 29/30 2013 and a first year bird, which frequented the same area from May 5th–August 12th 2016, roosting on the Marine Lake north island. It seemed to be reasonably settled, but was spooked by a fox on August 12th and departed high south."
+-
+  name:  Spoonbill
+  latin: Platalea leucorodia
+  text:  "First recorded in April 1991 Spoonbills have become almost annual on the Ribble Estuary, culminating in a pair nesting in 1999 producing two young – the first in Britain since the 17th century. The increasing frequency of records since 2010 would suggest that more breeding attempts are likely in the future."
+-
+  name:  Little Grebe
+  latin: Tachybaptus ruficollis
+  text:  "First breeding was in 1991 and theDabchick has become well established as part of the resident avifauna with an estimated six pairs resident in the recording area in spring 2016."
+-
+  name:  Great Crested Grebe
+  latin: Podiceps cristatus
+  text:  "An uncommon visitor offshore on winter high tides, with 17 on November 17th 2002 the largest number ever recorded. Very rarely appears on the shallower water of the freshwater marshes, with only a few records from Rainford's Lagoon."
+-
+  name:  Slavonian Grebe
+  latin: Podiceps auritus
+  text:  "Only two record, both offshore; one on October 21st 1978 and another on October 12th 2003."
+-
+  name:  Black-necked Grebe
+  latin: Podiceps nigricollis
+  text:  "One on the high tide out from Crossens on April 1st 1974 is the only record."
+-
+  name:  Honey buzzard
+  latin: Pernis aviporus
+  text:  "The only pre -2000 record was of a juvenile over the reserve on October 2nd 1998. An unprecedented influx in SE winds in late September 2000, vectored at least 57 Scandinavian migrants into SW Lancashire, of which two were observed over Banks Marsh/Crossens Outer on September 30th. With the establishment of small breeding populations in Cumbria and Scotland, spring migrants have become more frequent, with the most recently accepted record that of an adult over Hesketh Golf Course on May 29th 2013."
+-
+  name:  Red Kite
+  latin: Milvus milvus
+  text:  "The first record was on April 12th 1979 and despite the successful re-introduction programmes in Cumbria and Yorkshire, it is still a very rare visitor. The most recent I could find in the _Lancashire Bird Reports_ 2000-2015 (LBR) was of one on June 6th 2006."
+-
+  name:  Marsh Harrier
+  latin: Circus aeruginosus
+  text:  "This increasingly seen raptor now breeds in S Lancashire as well as at such well-known sites as Leighton Moss. Consequently, it's now a regular spring passage migrant and two/three have overwintered on the Ribble saltmarshes in recent years."
+-
+  name:  Hen Harrier
+  latin: Circus cyaneus
+  text:  "From the early 1990s it became apparent that numbers were seriously declining. Their current Marshside status is that of a scarce passage migrant and an uncommon winter visitor. Usually, only one or two ringtails now frequent the saltmarshes except for in the very cold spell in late 2010/early 2011, when up to four birds were present. Due to illegal persecution on their Bowland breeding moors, by driven grouse shooting interests, the days are gone when up to seven birds, including adult males, regularly roosted off the sand plant compound."
+-
+  name:  Montagu's Harrier
+  latin: Circus pygargus
+  text:  "Three records before 2000, with the first in July 1972 and only one since 2000. A male frequented Altcar, Martin Mere WWT and the Ribble marshes between May 18th – June 9th 2014 and was seen on Crossens Marsh at least once in this period."
+-
+  name:  Goshawk
+  latin: Accipiter gentilis
+  text:  "A very rare bird with just three documented records prior to 2000. There has been only one accepted record since, that of a female on Hesketh Golf Course on April 6th 2007."
+-
+  name:  Sparrowhawk
+  latin: Accipiter nisus
+  text:  "The continuing recovery in numbers has resulted in this species becoming the reserve's most frequently recorded raptor. A pair breeds most years on HGC and small numbers of obvious migrants have been recorded on passage in April and September."
+-
+  name:  Common Buzzard
+  latin: Buteo buteo
+  text:  "From the early 1990s it has expanded rapidly into S W Lancashire and is now a common breeding resident of many local woodlands and copses. Records have increased accordingly, with birds often present for weeks at a time. Obvious passage birds have also been noted in March/April and September/October."
+-
+  name:  Rough-legged Buzzard
+  latin: Buteo lagopus
+  text:  "Only five accepted records of this sought after species; One in March 1977 and another in October the same year. Only three records since; one was over Banks Marsh on November 4th and one over Crossens Marsh on November 7th 2006 and another over the saltmarsh, out from Southport Pier, flying towards Marshside on December 1st 2010."
+-
+  name:  Osprey
+  latin: Pandion haliaetus
+  text:  "Formerly a scarce spring migrant with only six documented records prior to 2000, the Osprey is now an uncommon but regular spring and autumn migrant. In some recent springs up to three birds have passed through on the same day. Our earliest record was on March 6th 2007."
+-
+  name:  Water Rail
+  latin: Rallus aquaticus
+  text:  "Previously a rarely glimpsed winter visitor, the Water Rail was first recorded breeding in 1995. They are now well established in the expanding reed beds of the reserve and an evening survey in June 2016 found birds present in four sites; the SSSI ditch, near Nels Hide, Junction Pool and below the bench overlooking Polly's Creek."
+-
+  name:  Spotted Crake
+  latin: Porzana porzana
+  text:  "Four late autumn and winter records pre-2000, with only three sightings since. The most recent was of a bird flushed from long grass on the banks of the former sand plant compound on March 31st 2014."
+-
+  name:  Moorhen
+  latin: Gallinula chloropus
+  text:  "A common breeding resident, which has expanded its numbers considerably. A spring 2016 estimate of &gt;15 breeding pairs throughout the recording area is probably conservative. Young Moorhens and Coots often fall prey to the increasing number of marauding Great Black-backed Gulls."
+-
+  name:  Coot
+  latin: Fulica atra
+  text:  "At least 15 pairs of Coot now breed at Marshside, their prominent island nests scattered over both Rimmer's and Sutton's Marshes. Winter numbers often exceed 100 birds with larger influxes in cold weather, especially to SML. A post-breeding count at Marshside in July 2012 recorded 229 birds."
+-
+  name:  Common Crane
+  latin: Grus grus
+  text:  "An immature over Crossens on May 7th 1978 remains the only record. Several reports since have not been documented and remain unsubstantiated."
+-
+  name:  Black-winged Stilt
+  latin: Himantopus himantopus
+  text:  "One was present briefly on Polly's Creek on April 28th 1984, which surprisingly despite the large increase in UK records, is the sole occurrence."
+-
+  name:  Avocet
+  latin: Recurvirostra avosetta
+  text:  |
+    _The Birds of Marshside_, Barry McCarthy, 2000, has but this one line entry for the Avocet:
+
+    'One on Crossens Channel on 9 September 1972 is the only record.'
+
+    How things have changed! They first bred in Lancashire at the Eric Morecambe complex near Leighton Moss in 2001 and in 2002 two pairs bred at Marshside for the first time, producing seven young. Their numbers exploded thereafter and the noisy and very aggressive Avocet is now a common breeding species with over 77 present in early May 2016 and some 28 pairs nesting. Return from their wintering quarters on the south coast or northern France is in mid February and they have usually all departed to their regular wintering sites by mid October.
+-
+  name:  Oystercatcher
+  latin: Haematopus ostralegus
+  text:  "An abundant passage and wintering wader with for example 16,493 recorded on the Ribble Estuary WeBS count in December 2015. Prior to 2000 only one/two pairs nested on Sutton's Marsh and Crossens Inner Marsh, but in 2015, 27 pairs nested at Marshside alone."
+-
+  name:  Grey Plover
+  latin: Pluvialis squatarola
+  text:  "The Ribble Estuary is the most important site in Lancashire for wintering and passage Grey Plovers. On the January 2014 WEBS survey 5,219 were recorded and high tides in late April and May often push numbers of glorious summer-plumaged birds close inshore. Very few are ever seen on the fresh marshes; return passage is from early August to late September, with only small numbers remaining throughout winter."
+-
+  name:  Golden Plover
+  latin: Pluvialis apricaria
+  text:  "Systematic counts of the 'northern'_albifrons_ race on spring migration to Iceland have reinforced thatRimmer's Marsh is a very important stop-over for at least some of the 400,000 pairs that breed on Iceland. Between early March and early May 2015 some 12,382 actively migrating birds were counted, most in splendid breeding plumage. Up to 4,000 birds have been counted in winter."
+-
+  name:  American Golden Plover
+  latin: Pluvialis dominica)
+  text:  "The first record for the county was of a first winter bird in November 1984. Further first winter birds were recorded in October 1998 and October/November 2003, but there have been no records since."
+-
+  name:  Dotterel
+  latin: Charadrius morinellus
+  text:  "Although 'trips' of Dotterel turn up most years at traditional SW Lancashire mossland locations, records from actually within the reserve are as infrequent as the previous species. All three records were pre-2000, with the last on HGC on May 9th 1993."
+-
+  name:  Ringed Plover
+  latin: Charadrius hiaticula
+  text:  "Often not present on recent Ribble WeBS counts from November to February, Ringed Plovers are declining as a winter visitor. Peak spring passage is at the end of April to mid May, with 1,567 counted on the May 2015 WeBS. Most, if not all of these birds are likely to be of the Icelandic 'northern tundra' race, which are shorter-legged and darker backed than our breeding birds. Autumn migrants are most noticeable in high-tide roosts at the end of the sand track in August–October. One or two pairs attempt to breed most years, usually in the area of the former Sand Plant."
+-
+  name:  Little Ringed Plover
+  latin: Charadrius dubius
+  text:  "An uncommon early spring migrant arriving from mid-March; one or two pairs occasionally breed, often in the same areas as Ringed Plover"
+-
+  name:  Lapwing
+  latin: Vanellus vanellus
+  text:  "The second commonest breeding wader with 65 pairs producing 54 young in summer 2014. However, this does not compare with a maximum number of 210 pairs in both 1980 and 1993, indicating the scale of the breeding decline of this key species from the mid-1990s. Wintering numbers have also declined from historic peaks, such as the 25,000 average count on the Ribble Estuary in the early 1990s to 13,900 on the WeBS count in December 2015, of which 9,000 were counted at Marshside."
+-
+  name:  Kentish Plover
+  latin: Anarhynchus alexandrinus
+  text:  "There have been just fiver ecords, three in the period October-December 1977, 1979 and 1980, which could possibly have been the same returning individual. There was another short-stay bird on September 17th 1989 and the last to be recorded was accompanying Ringed Plovers on the shoreline out from Hesketh Road, on June 4th 2004."
+-
+  name:  Whimbrel
+  latin: Numenius phaeopus
+  text:  "A regular spring migrant in small numbers, whose 'titt-err-ing', seven note call, is often the first sign of their arrival from mid-April to mid-May. The largest flock ever recorded on the reserve was of 47 on May 7th 1991 and there are four accepted records of birds in winter, but none since 1999, despite the ameliorating winter climate."
+-
+  name:  Curlew
+  latin: Numenius arquata
+  text:  "A common winter visitor and passage migrant, Curlews are frequently recorded both on the tidal marshes and feeding on the grassy swards of both Rimmer's and Sutton's marshes. Peak numbers occur in winter with a nationally important count of 1,726 on the Ribble WeBS in February 2014. Passage birds are noticeable throughout March and early April and post-breeding numbers build up again in July and August."
+-
+  name:  Black-tailed Godwit
+  latin: Limosa limosa
+  text:  "Since 2,000, the huge increase in the Icelandic breeding population has resulted in a three-fold increase in numbers wintering and over-summering at Marshside. 5,000 were counted on the reserve on the January 2014 WEBS count and a record 6,680 were counted on December 28th 2015. In the late 1990s, although already increasing, 4,300 in winter 1998 was considered an entirely exceptional total. Around 2/400 birds, presumably first years, over-summer and sudden influxes in March/April also indicate a passage of Icelandic–bound birds stopping over at Marshside."
+-
+  name:  Bar-tailed Godwit
+  latin: Limosa lapponica
+  text:  "A regular passage migrant and winter visitor, especially in March/April and August/September. Almost invariably found in discrete flocks on the tideline with very few records from the fresh marshes, except on the highest spring tides. In the 1970s, flocks of 10,000 plus were recorded but the maximum recent total on the Ribble WeBS counts was 4,374 in February 2014."
+-
+  name:  Turnstone
+  latin: Arenaria interpres
+  text:  "A very scarce migrant, sometimes recorded on high spring tides on the stony area at the end of the sand track and even more infrequently on the fresh marshes in May."
+-
+  name:  Knot
+  latin: Calidris canutus
+  text:  "This high Arctic breeding species, is commonly recorded on winter WeBS counts with a recent peak Ribble count of 10,753 in March 2014. A count of 14,000 off Marshside on April 27th 2015 is also notable, but these totals pale into insignificance compared with counts in the 1970s/80s, when &gt; 50,000 were regularly recorded."
+
+-
+  name:  Ruff
+  latin: Calidris pugnax
+  text:  |
+    The pugnacious male Ruff and his smaller femalecounterpart, the Reeve, are something of a Marshside speciality and are well worth more detailed coverage Recorded in our area since at least the 16th century there can be little doubt that the Ruff has been a regular breeding bird on the Ribble marshes and its adjacent grazing marshes for centuries.
+
+    As their breeding behaviour is unlike any other wader many current birders are confused as to their real breeding status. The larger, bizarrely plumaged males only seriously fight and display in 'leks' whenever the smaller and much less numerous female (Reeve) appears to watch the entertainment. Their display plumage is only to intimidate other males and the females generally don't actively select which male they will mate with. The black plumaged males dominate the rufous males, who in turn have superiority over the white plumaged birds. But it's not that simple. Some smaller male birds, called 'Faeders' assume female plumage -- their testes are twice the volume of normal Ruffs -- and they sneak in and impregnate a Reeve without attracting attention, although presumably they themselves can become the object of other males' desire. Other, less showy, 'satellite males' hang around on the periphery of the leks awaiting similar opportunities, when the principal actors exit stage right.
+
+    The 'lowland' Ruff's optimal breeding habitat is grazing pasture, which is flooded in winter and then dry out in spring (aka Marshside) to expose bare areas on which to lek. Once suitably impregnated, usually by multiple males, the Reeve flies off onto the adjacent salt marsh to lay her four eggs in a small hollow, often within tussocks of long grasses/reeds. Incubation by the female alone takes around 21 days, but the young are entirely independent after one or two days, feeding up flightless and invisible in the tidal gullies and pools. Juvenile birds then appear on the fresh water pools and scrapes of Marshside, with up to 11 juvenile birds noted in July 2015.
+
+    Up to 60 males and seven females attend the annual leks, which usually take place from the last 10 days of April into early May. By around the 10th May, the brief lekking season is all but over; the females have gone off onto the saltmarsh to lay eggs and the males are left to their own devices, occasionally indulging in desultory 'kick boxing' to pass the time
+
+    2016 was an exception. The marshes did not start drying out until the end of May by which time many of the males had the opportunity to acquire their full nuptial plumage including complete ruffs and we were treated to some superb displays in early and mid-June. Our Ruffs usually acquire only partial-breeding plumage because their normal 'lekking' season starts early, in late April."
+-
+  name:  Broad-billed Sandpiper
+  latin: Calidrid falcinellus
+  text:  "Three records :-October 16th 1954, July 1st- 4th 1976 and May 5th 1988. The fourth was well photographed amongst the high tide wader roosts from the end of the sand track on May 8th 2016, in the company of Dunlins and Ringed Plover."
+  highlight: yellow
+-
+  name:  Curlew Sandpiper
+  latin: Calidris feruginea
+  text:  "A regular spring and autumnpassage migrant usually in small numbers, with the largest day total of 39 on September 5th 1988 and occasional, single birds, have overwintered. From early May into early June, several will have acquired their beautiful brick-red breeding plumage. Autumn birds in August/September are more often noted on the shoreline with the large flocks of Dunlin."
+-
+  name:  Temminck's Stint
+  latin: Calidris temminckii
+  text:  "A scarce spring migrant with six records prior to 2,000 and eight since, the last documented record being on May 28th 2012. They almost invariably turn up on the freshwater marshes from mid to late-May, on passage to their breeding grounds in Fennoscandia and Russia"
+-
+  name:  Sanderling
+  latin: Calidris alba
+  text:  "A difficult wader to connect with as the saltmarsh has become far too overgrown for these hyper-active, waders. They are still on the tideline however, as the May 2014 Ribble WeBS recorded 6,084. Very few are recorded on the fresh water marshes."
+-
+  name:  Dunlin
+  latin: Calidris alpina
+  text:  "An abundant passage migrant and winter visitor, the various races of Dunlin are the default smaller waders at Marshside. Typical totals include 22,907 on the Ribble WeBS in August 2014 and peak spring migration in May the same year saw flocks of 10,000 plus."
+-
+  name:  Purple Sandpiper
+  latin: Calidris maritima
+  text:  "Only five records of single birds in September on high tide roosts off the end of the sand road with none since 2000. Fast becoming a very localised wintering bird throughout the UK, with many former wintering sites now unoccupied."
+-
+  name:  Baird's Sandpiper
+  latin: Calidris bairdii
+  text:  "Just two records of this Nearctic vagrant, both of juvenile birds in September 1982 and 1991 on the then muddy shore, out from the Sand Plant compound."
+-
+  name:  Little Stint
+  latin: Calidris minuta
+  text:  "A regular spring migrant to Rimmer's Marsh, but in small numbers, during late April and May. Autumn migrants are usually recorded on the shoreline and in some years one or two birds overwinter."
+-
+  name:  Buff-breasted Sandpiper
+  latin: Calidris subruficollis
+  text:  "Included here for information only, as it's the only species recorded at RSPB Hesketh Out Marsh, which has not been recorded at the RSPB Marshside reserve. One was present at HOM from September 8th-13th 2013."
+  highlight: yellow
+-
+  name:  White-rumped Sandpiper
+  latin: Calidris fuscicollis
+  text:  "The only spring record for Lancashire and a first for Marshside, was of an adult on Rimmer's Marsh on May 19th – 20th 2002."
+-
+  name:  Pectoral Sandpiper
+  latin: Calidris melanotos
+  text:  "A juvenile between October 5th and 12 th 1999 was the first. There have been eleven records since of twelve individuals; eight between early July and mid October; one in late March and one in early May 2015. Two juvenile birds arrived on September 23rd 2016 and one was seen well to the 30th."
+-
+  name:  Wilson's Phalarope
+  latin: Phalarophus tricolor
+  text:  "The only record is of one frequenting Crossens Inner and Out Marsh between August 24th and 26th 2009."
+-
+  name:  Red-necked Phalarope
+  latin: Phalarophus lobatus
+  text:  "The first live record was of a male on Rimmer's Marsh on June 8th 2001, quickly followed by a female in the same location between June 21-26th. The third was another female on May 29th 2006, which is our last record."
+-
+  name:  Grey Phalarope
+  latin: Phalaropus fulicarius
+  text:  "Five records prior to 2000 of storm driven birds in late autumn/early winter gales. The only record this century was on Crossens Inner between October 28th-30th 2005."
+-
+  name:  Common Sandpiper
+  latin: Actitis hypoleucos
+  text:  "A fairly common spring and autumn migrant, arriving from early April through to late May and returning from mid-July through to October. The only record of overwintering was of one at Crossens Water Treatment Works between December 17th 1980 and mid-March 1981."
+-
+  name:  Green Sandpiper
+  latin: Tringa ochropus
+  text:  "Currently, this species has reverted to its former status as a scarce migrant, although fairly regular at more favoured sites nearby. I could find no reserve records for the past sixteen years, except for two flying over MBO calling on September 22nd 2012 and one recorded on August 5th 2016 in the ditch adjacent to the road on Sutton's Marsh."
+-
+  name:  Spotted Redshank
+  latin: Tringa erythropus
+  text:  "A regular spring and autumn migrant in very small numbers, with returning summer-plumaged birds recorded as early as the end of June. 2010 was an exceptional year, with one present in winter and a record count of seven on September 16th."
+-
+  name:  Greenshank
+  latin: Tringa nebularia
+  text:  "A regular spring and autumn passage migrant, usually seen in ones or twos, but also in small flocks (flockettes). One or two have overwintered in mild years."
+-
+  name:  Lesser Yellowlegs
+  latin: Tringa flavipes
+  text:  "The first ever was recorded between October 18th and December 2nd 1997 and was later joined by another in late December. Both frequented Banks Marsh, Marshside and MMWWT throughout 1998 to May 2nd 1999."
+-
+  name:  Marsh Sandpiper
+  latin: Tringa stagnatillis
+  text:  "one to three individual juveniles were recorded on Sutton's Marsh between August 5th and 9th 1999. Certainly two juveniles were seen together and another, considered a different bird, was seen on August 7th."
+-
+  name:  Wood Sandpiper
+  latin: Tringa glareola
+  text:  "Current status is that of an annual spring and autumn passage migrant in small numbers between late April–end May and on return passage in August and September. Certainly, more frequently recorded in recent years, as the marshes have matured."
+-
+  name:  Redshank
+  latin: Tringa tetanus
+  text:  "103 pairs bred in 2014, both on the saltmarsh and the freshwater marshes, with chick productivity twice as high on the salt marshes. Numbers peaked on the February WeBS with 892 counted in total, which will have included migrant birds heading further north."
+-
+  name:  Jack Snipe
+  latin: Lymnocryptes minumus
+  text:  "This skulking species is likely to be much more numerous than sightings would suggest. Often only flushed when right underfoot on high tide wader counts, or surveys out on the salt marsh, the estimated occurrence ratio is of one Jack Snipe for every 50 Common Snipe, which can be abundant at Marshside in winter. In mid-May 1994, a late staying individual spent several late evenings displaying around Rimmer's Marsh, giving its distinctive 'clip-clop' horse's hooves call as it flew."
+-
+  name:  Long-billed Dowitcher
+  latin: Limnodromus scolopaceus
+  text:  "The first was from November 19th 1998–May 14th 1999. The second was on September 24th 2009, joined by another from October 5th to May 2010."
+-
+  name:  Woodcock
+  latin: Scopolax rusticola
+  text:  "Small numbers are occasionally flushed in winter from the wooded copses on HGC and birds have been seen at MBO on dawn VisMig counts April 6th and 12th 2012."
+-
+  name:  Common Snipe
+  latin: Gallinago gallinago
+  text:  "A regular migrant and occasional breeding species, in much reduced numbers since the early 1990s. A maximum of 12 pairs bred in 1993, but none have been recorded in several recent years, and only one bird was recorded drumming in 2016. After a very wet summer in 2012, no less than 266 Snipe were counted (the suggested actual count ratio is four for every one seen) at Rimmer's Marsh on September 16th."
+-
+  name:  Great Snipe
+  latin: Gallinago media
+  text:  "The only record is of one watched for 20 minutes in a pasture at Marshside on March 19th 1926."
+-
+  name:  Pomarine Skua
+  latin: Stercorarius pomarinus
+  text:  "Pre -2000 Pom Skuas were recorded on eight autumn sea watches, with two observed in mid-winter. No documented records since, is perhaps more to do with lack of sea watching activity at Marshside in suitable weather conditions, in favour of the much more productive Formby Point."
+-
+  name:  Arctic Skua
+  latin: Stercorcarius parasiticus
+  text:  "Similar numbers recorded on pre-2000 sea watches as the previous species, including one or two in winter. Only odd records since, with perhaps the most noteworthy that of a fine adult heading NE towards the Ribble valley at MBO on a dawn VisMig on April 24th 2012."
+-
+  name:  Long-tailed Skua
+  latin: Stercorarius longicaudus
+  text:  "An adult on May 10th 1979is only the second spring record for Lancashire."
+-
+  name:  Great Skua
+  latin: Stercorarius skua
+  text:  "An uncommon visitor with only some 20 records in the last 50 years with several in midwinter. The most recent was of one landing amongst 1,000 Shelduck on the saltmarsh during Hurricane Gonzalo on October 21st 2014."
+-
+  name:  Black Guillemot
+  latin: Cepphus grille
+  text:  "One during a gale on September 3rd 1955 is the only record of a wild bird. A stranded bird was released onto Sutton's Marsh on December 6th 2013, when it flew away strongly."
+-
+  name:  Guillemot
+  latin: Uria allge
+  text:  "Two records prior to 2000 and one since, offshore on August 12th 2003. As with Razorbill, which has not yet been recorded at Marshside, it is very likely to be overlooked."
+-
+  name:  Little Tern
+  latin: Sternula albifrons
+  text:  "A scarce migrant in April/May andAugust/September and no recent reports. The last documented record was of two on the shoreline off Hesketh Road on May 29th 2003."
+-
+  name:  Black Tern
+  latin: (Childonias niger)
+  text:  "A less than annual visitor to the freshwater marshes in late April/May dependent on easterly winds to displace passage birds. In autumn birds usually pass offshore, but only in small numbers. The maximum number recorded was of five together on Rainford's lagoon for several days in early May 2016. The latest ever record for Lancashire was of a juvenile frequenting Crossens Out Marsh from November 5th-10th 2000."
+-
+  name:  White-winged Black Tern
+  latin: Childonias leucopterus
+  text:  "The first for Lancashire and Marshside was an adult over Crossens Marsh on August 23rd 1968 and the second for Marshside was another adult on Junction Pool from 19th to 21st June 2001."
+-
+  name:  Sandwich Tern
+  latin: Sterna sandvicensis
+  text:  " A regular spring and autumn passage migrant and usually the earliest tern to be recorded. Very infrequently seen over the freshwater marshes; more often roosting in small flocks at the end of the sand road. Autumn passage sometimes produces bigger numbers, as in the stormy August 2016, which brought a record 438 close inshore on August 20th, followed by 87 the following day."
+-
+  name:  Common Tern
+  latin: Sterna hirundo
+  text:  "A common spring and autumn migrant, usually offshore, but also recorded on the freshwater marshes. Formerly, breeding birds from the colony out on the Ribble saltmarsh were regular visitors and in recent years odd pairs have been noted prospecting for nest sites on Sutton's Marsh."
+-
+  name:  Roseate Tern
+  latin: Sterna dougalli
+  text:  "Just three records prior to 2000 with the last of three on August 31st 1981 – no less than 35 years ago!"
+-
+  name:  Arctic Tern
+  latin: Sterna paradisaea
+  text:  "An occasional spring and autumn migrant, birds in May usually moving through very rapidly. For example, a record flock of 82 passed north along the tideline off MBO on May 1st 2012 in just two minutes."
+-
+  name:  Kittiwake
+  latin: Rissa tridactyla
+  text:  "A scarce visitor offshore, occasionally pushed in closer by strong gales, such as 15 on Christmas Day 1999. Very few recorded since, but an adult flying over the Black-headed Gull colony on May 30th 2016 was noteworthy, especially as it was aggressively mobbed and driven off by hundreds of angry gulls"
+-
+  name:  Black-headed Gull
+  latin: Larus ridibundus
+  text:  "Always a common visitor from the nearby breeding colonies on Banks/Hesketh Outer saltmarshes. In 1998 the first pair nested on the reserve itself, followed by two pairs near Polly's Creek the following year. In 2010, only three pairs were reported nesting but by 2014 the breeding population had exploded to 360 nests mostly around Rainford's Lagoon and the adjacent Rimmer's Marsh."
+-
+  name:  Little Gull
+  latin: Hydrocoloeus minutus
+  text:  "Once an uncommon passage migrant, numbers built up in the late 1990s with the increasing concentrations of migrant Little Gulls at Seaforth and the Alt Estuary. The recent rapid expansion of the Black-headed Gull colony has seen first-summer Little Gulls spending several weeks feeding over particularly Rainford's lagoon and in 2016 two/three birds were present into late June."
+-
+  name:  Ross's Gull
+  latin: Rhodostethia rosea
+  text:  "The only record is of a fleeting visit by a winter-plumaged adult on the tideline on January 16th 1983."
+-
+  name:  Mediterranean Gull
+  latin: Larus melanocephalus
+  text:  "First recorded inLancashire in 1968, the first for Marshside was in November 1975. Previously, most records were in winter, but the status has changed over the last ten years to that of a regular early spring migrant, with up to five birds present on several occasions. A pair nested in 2015 within the Black-headed Gull colony, and laid eggs but the outcome was unsuccessful."
+-
+  name:  Common Gull
+  latin: Larus canus
+  text:  "Nowadays the least common of the commoner smaller gull species in winter roosts on the reserve itself and it often goes unrecorded from April through to July. Ribble WeBS counts have had peaks of &gt; 2,000 on spring passage but the last time such numbers occurred at Marshside was of 2,167 on March 15th 2008. More typical of recent years was a discrete flock of 27 southbound adults bathing on Fairclough's Pool, Sutton's Marsh on August 11th 2015."
+-
+  name:  Ring-billed Gull
+  latin: Larus delawarensis
+  text:  "Only four records, all prior to 2000, the last was a second winter on February 2nd 1998."
+-
+  name:  Lesser Black-backed Gull
+  latin: Larus fuscus
+  text:  "With large breeding colonies of some 9,000 nests (2014) on the outer Ribble saltmarshes, they are very common visitors to the reserve. The darker-backed Scandinavian race, _intermedius_ occurs on both spring and autumn passage and is consideredto be the most common race occurring in winter."
+-
+  name:  Herring Gull
+  latin: Larus argentatus
+  text:  "Large numbers breed on the saltmarshes (1,371 nests in 2014) and increasingly on local buildings. This, the typical 'seaside' gull, is often seen marauding over the fresh water marshes."
+-
+  name:  Yellow-legged Gull
+  latin: Larus michahellis
+  text:  "Five records pre-2000 and six since. The most recent records were of an adult on January 25th 2008 and another on April 2nd 2010. This is unlikely to be the true position however, but probably reflects the lack of intensive gull watching locally."
+-
+  name:  Iceland Gull
+  latin: Larus glaucoides
+  text:  "A seemingly increasing visitor in the 1990s, with several records each year. Has now reverted to its former status as a less than annual visitor, usually as a brief stopover on return migration in early spring. White-winged gulls have become much less frequent over the past 20 years, the most recent record is of a first winter bird on April 6th 2016."
+-
+  name:  Glaucous Gull
+  latin: Larus hyperboreus
+  text:  "As with Iceland Gull, records have decreased considerably from former peaks in the 1990s. Since 2000 only five have been noted, the last on December 11th 2011; a 1st year, which remained in the area between Southport to Ainsdale until March 11th 2012"
+-
+  name:  Great Black – backed Gull
+  latin: Larus marinus
+  text:  " With around a dozen pairs of this powerful, rapacious gull breeding out on the Ribble saltmarshes, it's hardly surprising that has become one of the most frequent predators of virtually all the wildfowl and waders at Marshside. Numbers increase post-breeding and in winter, with perhaps influxes from further north. A count of 152 on the Ribble WeBS in February 2014, is well down on the 440 counted at Marshside alone, in a high-tide roost on August 20th 1997."
+-
+  name:  Rock Dove/Feral Pigeon
+  latin: Columba livia
+  text:  "Feral Pigeons are invisible to most birders. Flocks are often seen on the saltmarsh as below, but so are local 'racing pigeons'. An update on their current status is well overdue."
+-
+  name:  Stock Dove
+  latin: Columba oenas
+  text:  "Only small numbers are seen annually at all times of the year, with recent evidence of spring migration on early morning VisMig sessions; for example 20 north on March 29th 2014. Only one or two have been seen on autumn passage in late September and October. The CBC/BBS has recorded a 20% increase since the early 1990s, so perhaps we should expect more sightings."
+-
+  name:  Woodpigeon
+  latin: Columba palumbus
+  text:  "An abundant resident and occasional passage migrant, with very few visits to Marshside made without recording the ubiquitous Woodpigeon. Post-breeding and wandering winter flocks are unpredictable, but counts have been made of higher flying migrants during spring early morning VisMig sessions; such as 308 on April 20th 2013; and 582 between March 30th and April 2nd 2014."
+-
+  name:  Collared Dove
+  latin: Streptopeplia decaocto
+  text:  "This pioneering species first became established in the Southport area in 1965 and a few pairs breed on the edge of the reserve. The saltmarsh at Crossens always seems to attract feeding birds but numbers appear to have stabilised since 2000. Small migrating flocks are recorded each spring on dawn VisMig, with the maximum being 10 on May 3rd 2012."
+-
+  name:  Turtle Dove
+  latin: Streptopeplia turtur
+  text:  "The rapid decline of the beautiful migrant dove began in the late 1970s and it's now extinct as a breeding bird in Lancashire and indeed throughout much of the UK. Since 2000 only two have been recorded; one on June 13th 2007 and the last on May 14th 2009. Maltese and other Mediterranean hunters have killed more than 2.5 million Turtle Doves per year since 1980 -- that's 90 million birds! The extermination of Europe's very own Passenger Pigeon continues unabated."
+-
+  name:  Cuckoo
+  latin: Cuculus canorus
+  text:  "With both of its favoured host species ReedWarbler and Meadow Pipit present in reasonable numbers, it is surprising there have been no recent breeding reports from on the reserve. Cuckoos are normally seen on spring passage between mid-April and early-May, depending on prevailing weather conditions. Never common, a good total would be of six individuals in the season and rarely more than one per day. They are even more difficult to connect with in autumn, with just the occasional juvenile reported every few years or so."
+-
+  name:  Barn Owl
+  latin: Tyto alba
+  text:  "A breeding pair is often resident in the water treatment plant at Crossens and birds are also occasionally seen in the vehicle sheds at HGC, but can never be depended upon. Post breeding dispersal can bring young birds to the reserve, but generally the Barn Owl retains its status as a occasional visitor to Marshside."
+-
+  name:  Little Owl
+  latin: Athena noctua
+  text:  "A scarce visitor with no records since a pair took up residence in an outbuilding at Stanley School in 2009/10."
+-
+  name:  Tawny Owl
+  latin: Strix aluco
+  text:  "Although resident in several nearby copses, the Tawny Owl is virtually never recorded. A pair are resident on the corner of Fleetwood Road and Hesketh Road and can be heard calling at dawn and dusk from HGC, where they are also very occasionally reported."
+-
+  name:  Long-eared Owl
+  latin: Asio otus
+  text:  "The only record is of a migrant, roosting in the bushes at the junction of Marshside Road and the Coast Road on September 13th 2006."
+-
+  name:  Short-eared Owl
+  latin: Asio flammeus
+  text:  "Up to the early 1990s, Short-eared Owls were a fairly regular visitor and up to six could regularly be seen quartering the saltmarsh. Ten metre plus spring tides still seem to attract two or three (local?) birds, as it's possible that one or two pairs may breed in the vicinity of Hundred End/Hesketh Out Marsh. There are also occasional records of presumed migrants in April/May."
+-
+  name:  Nightjar
+  latin: Caprimulgus europaeus
+  text:  "A very scarce breeding species in northwest England, with only a small population in south Cumbria and southern Scotland. Only three have ever been recorded, all pre-2000 and the last was of a bird calling at dawn on Hesketh Golf Course on May 16th 1999."
+-
+  name:  Common Swift
+  latin: Apus apus
+  text:  "Swifts are abundant visitors to the reserve, with small numbers breeding locally and large numbers on passage from the end of April until early June. The peak number counted in recent years is of 1,025 on May 15th 2012 and the average number of Swifts counted on spring passage in the peak VisMig coverage of spring 2012 and 2013 was 1,566 birds. The mean earliest arrival date for Lancashire is now April 20th, whereas pre-1990, very few Swifts arrived before early May. Odd plumaged birds in spring have included one with white under-parts, a black central chest stripe and a white rump and upper back in May 2012 and at least two birds in 2014 and 2015, or the same one returning, with a white rump. Autumn migration is much less obvious and by the end of August, nearly all will have departed for Africa. The mean latest sighting in Lancashire is October 7th"
+-
+  name:  Kingfisher
+  latin: Alcedo atthis
+  text:  "An uncommon but increasing visitor to the creeks and pools at Marshside, usually only recorded when flashing past Sandgrounders hide.They turn up in both winter and early spring but more commonly in August/September. A pair has been nesting on Hesketh Golf Course since 2013, producing three young in 2014 and two in 2015."
+-
+  name:  Wryneck
+  latin: Jynx torquilla
+  text:  "Only two accepted records; one calling fromH GC on May 1st 1981 and one flushed from MBO, the former sand plant compound, on September 14th 2008."
+-
+  name:  Great Spotted Woodpecker
+  latin: Dendrocopus major
+  text:  "At least one pairnests on HGC and/or in the large gardens in Fleetwood Drive. Small numbers have been recorded on MBO VisMig every year since 2012 -- earliest September 8th 2012 and the latest October 19th 2014, with two spring records on May 9th 2013 and April 19th 2014."
+-
+  name:  Kestrel
+  latin: Falco tinnunculus
+  text:  "Once the most numerous raptor frequenting Marshside, seeing a Kestrel hovering over Marshside nowadays is almost a noteworthy event. In the 1990s up to 30 birds could be seen hunting over the reserve and salt marshes in late August and September, but such numbers are now but a distant memory. Kestrels still breed locally on buildings, churches and in barns throughout the nearby mosslands, but have declined to a level below that in the mid-1960s."
+-
+  name:  Red-footed Falcon
+  latin: Falco vespertinus
+  text:  "An adult male on May 10th1979and an immature female on May 25th 1992 remain the only records."
+-
+  name:  Merlin
+  latin: Falco columbarius
+  text:  "A common winter visitor, with up to five 'resident' Merlins frequenting the reserve and salt marshes from the end August to early April. Since 2012, dawn VisMig sessions in late April/early May have produced three larger and darker female birds, approaching a male Peregrine in size. These are possibly of the _subaesalon_ population returning to Iceland, where 1,000 -2,000 pairs breed and only very few adult males overwinter."
+-
+  name:  Hobby
+  latin: Falco subbuteo
+  text:  "There were only nine documented records in _'Birds of Marshside '_ (BoM), 2000, Barry McCarthy, but since 2000numbers and sightings in Lancashire have increased. There are now at a minimum of six pairs of Hobbies nesting between the Ribble and the Mersey, and other pioneers have established territories as far north as the Spey valley in Scotland – so its not perhaps surprising that we are now recording these handsome, but elusive, falcons more frequently. The earliest sighting is of an adult on April 27th 2013 and the latest is of an obviously inexperienced juvenile on October 11th 2011, which only narrowly missed being killed by a car on the coast road."
+-
+  name:  Peregrine
+  latin: Falco peregrinus
+  text:  "Its BoM status as 'a common, almost daily visitor to the reserve, especially in winter' has not changed since 2000. There are at least two local eyries on man-made structures and suitable nesting sites are now at a premium. Prey species include virtually anything that flies, and even Pink-footed Geese are nervous if a large female peregrine 'waits on' over the saltmarshes, looking for a meal.."
+-
+  name:  Golden Oriole
+  latin: Oriolus oriolus
+  text:  "The long awaited first record of this beautiful species came on May 8th 2016, in a purple patch for migrants locally, which included Broad-billed Sandpiper and a fly through Pallid Harrier at Brockholes. Andy Pryce was the lucky individual and Hesketh Golf Course the location. Still to be ratified by the LRBC."
+  highlight: yellow
+-
+  name:  Red-backed Shrike
+  latin: Lanius collurio
+  text:  "The only record is of a male on the SW corner of (M1) Sutton's Marsh on May 16th 1996, which was later relocated briefly on HGC."
+-
+  name:  Great Grey Shrike
+  latin: Lanius excubitor
+  text:  "Five accepted one-day-only records of single birds, three in spring and two in autumn, as follows April 2nd 1982; October 15th 2005; October 17th 2010; May 4th 2012 and April 17th 2016."
+-
+  name:  Woodchat Shrike
+  latin: Lanius senator
+  text:  "The only record was of an adult female on Sutton's Marsh at the corner of Marshside Road and the Coast Road on May 20th 2007."
+-
+  name:  Magpie
+  latin: Pica pica
+  text:  "An abundant breeding resident with the increasing shrubbery and trees along the edge of the reserve and on HGC provide ideal nesting habitat. Small parties have been observed on dawn VisMig watches, such as the 32 that passed south high on October 17th 2014."
+-
+  name:  Jay
+  latin: Garrulus glandarius
+  text:  "Recorded on HGC since the late 1990s and becoming more regular since and in 2016 that they were confirmed to be breeding there. Small, loose flocks of irruptive migrant birds are recorded most years, usually from late September to mid-October, with a maximum of 12 on October 6th 2012 and ten on October 14th 2014."
+-
+  name:  Jackdaw
+  latin: Corvus monedula
+  text:  "Locally common around Southport, up to 800 birds can be seen going to roost on the marine lake islands and the Hesketh estate in Churchtown on winter evenings. Feeding birds are very common on the reserve in the breeding season and occasionally presumed migrant flocks have been recorded on VisMig with the largest flock of 177 south at dawn on October 17th 2014."
+-
+  name:  Rook
+  latin: Corvus frugilevus
+  text:  "The recent (2011) re-establishment of the historic colony at Scarisbrick has resulted in many more sightings of Rooks on the nearby mosslands, inland of Marshside. They are still very rare visitors to the reserve itself and only ones and twos have been recorded on VisMig sessions in early March and early October."
+-
+  name:  Carrion Crow
+  latin: Corvus corone
+  text:  " An abundant and efficient predator of smaller birds, nestlings, eggs and small mammals, the Carrion Crow is usually to be seen all year round patrolling both the salt and fresh water marshes. Although its breeding status at Marshside is uncertain, it would be no surprise to find that two/three pairs are nesting on the edge of the reserve. Sizeable flocks (&gt;150) patrolling over the saltmarsh have been noted on April and October VisMig counts, but their origin and intention have been uncertain."
+-
+  name:  Hooded Crow
+  latin: Corvus cornix
+  text:  "Local birders who saw the bird in lateMarch/April 1990 or the one on October 18th 1998 can now add an immediate 'armchair tick' to their Marshside list. The only record since was of a bird on May 3rd 2012, which was only seen by a single observer."
+-
+  name:  Raven
+  latin: Corvus corax
+  text:  "A scarce visitor up to 2000, Ravens have become much more frequently recorded, often well out on the saltmarsh and especially on Crossens Outer Marsh. In the last 15 years several pairs have begun nesting within a ten-minute flight of the reserve, with at least two pairs favouring tall electricity pylons."
+-
+  name:  Goldcrest
+  latin: Regulus regulus
+  text:  "A regular March/April and August/October passage migrant, usually in small parties calling in the bushes at MBO or on HGC, the highest, most recent, total being 27 on HGC on October 25th 2015. Not common in winter although some do accompany roving tit flocks and only recorded breeding on HGC from 2011, although it breeds commonly in suburban Southport gardens where conifers occur."
+-
+  name:  Firecrest
+  latin: Regulus ignicapilla
+  text:  "Only three have been found; a male on May 3rd 1997, another on November 21st 1999 and the most recent of a calling juvenile, seen and heard on HGC on September 10th 2015."
+-
+  name:  Blue Tit
+  latin: Cyanistes caeruleus
+  text:  " An abundant and expanding breeding species, whose nesting sites besides HGC now include next to both Sandgrounder's and Nel's hides. Commonly recorded during both spring and autumn passage, especially from late September to late October and also within roving tit flocks in winter."
+-
+  name:  Great Tit
+  latin: Parus major
+  text:  "An increasingly common breeding and year-round resident on HGC, good numbers are also noted on spring and autumn passage, especially in early October."
+-
+  name:  Coal Tit
+  latin: Periparus ater
+  text:  "Although Coal Tits breed widely in pines in suburban Southport and the Sefton coastal pinewoods, there is no confirmation of breeding in the reserve recording area -- as yet. Small numbers have passed through on VizMig sessions since 2012, usually at the end of September or early October, but nothing like the flock of 28 on HGC on September 24th 1997."
+-
+  name:  Bearded Tit
+  latin: Panurus biarmicus
+  text:  "A notable irruption in December 1977 brought one to Marshside on the 18th. So after almost 39 years, another must be due any day soon."
+-
+  name:  Skylark
+  latin: Alauda arvensis
+  text:  "The uplifting, optimistic song of the Skylark can still be easily heard at Marshside, usually from the end of February, but in nothing like their former numbers. In the 1970s and 1980s, many hundreds of pairs nested, but in 2014 a mere 46 pairs were counted on the Breeding Birds Surveys with winter counts in the low hundreds instead of the many 1,000s as previously. Passage totals on two-hour dawn VisMig counts since 2012 have produced a maximum of 741 south on October 6th 2013 with most other late September/early October two-hour counts in the range of 150-400 birds. Peak spring passage takes place from the middle of February to the first week of March with a recent maximum of 156 birds in two hours north over MBO on February 27th 2014."
+-
+  name:  Shore Lark
+  latin: Eremophila alpestris
+  text:  "There have been four or five records of up to seven birds, but all pre-2000, with the last on February 24th 1999. Despite single birds being seen on the shoreline further south in Sefton in at least six recent winters, none have re-appeared at Marshside."
+-
+  name:  Sand Martin
+  latin: Riparia riparia
+  text:  "A common spring and autumn migrant, with a mean first arrival date in Lancashire of March 10th and a mean latest departure date is October 4th. Recent migration studies show that the peak passage period is between the end March and mid-April, when most of our breeding birds will be back at their colonies. The peak VisMig two-hour count is of 91 on March 29th 2014."
+-
+  name:  Barn Swallow
+  latin: Hirundo rustica
+  text:  "An abundant spring and autumn passage migrant, with a mean first arrival date in the county of March 23rd. and a mean latest departure of November 23rd. Peak passage is from the last two weeks of April until May 10 and the peak two-hour VisMig count is an outstanding 1,048 on May 1st 2012 – a day of clearing weather and fresh NE winds when migration appeared to continue for most of the morning. A two-hour afternoon count in clearing weather and a light NW wind on May 6th 2013 produced a total of 533 birds. Red-breasted birds were recorded on May 19th – 21st 2013 and another, less rufous individual, not considered the same bird, was seen on May 20th 2016. Up to three pairs usually nest under the eaves of the Sandgrounders hide and formerly in the derelict building on MBO (aka the Old Sand Plant compound)."
+-
+  name:  House Martin
+  latin: Delichon urbicum
+  text:  "A very common spring and autumn migrant with a mean first arrival date of April 1st and a mean latest departure date of October 25th. Peak passage takes place between the last week of April and mid-May and the peak two-hour Vismig count is of 154 on May 10th 2012. A regular colony of &gt;30 pairs is present on the housing estate next to the boundary of the reserve and take full advantage of the ample supplies of nest building materials, mud and flying insects."
+-
+  name:  Cetti's Warbler
+  latin: Cettia cetti
+  text:  "This long awaited species has slowly expanded along the western seaboard of the UK over the past 35 years. For some reason it appeared to have jumped across Liverpool Bay and the Ribble, to set up at Marton Mere, not 10Km as the crow flies from Marshside. The distinctive Blackbird-like rattling contact call was first heard from the SSSI ditch/reed bed on March 11th 2015 and was heard but not seen on several occasions thereafter. Another was glimpsed on the banks of Sutton's Marsh on April 23rd the same year."
+-
+  name:  Long-tailed Tit
+  latin: Aegithalos caudatus
+  text:  " A still expanding and now common breeding resident, they first bred on HGC in 1994 and have since continued to prosper around the edges of the reserve. Small irruptive parties have appeared during VisMig watches in late September and early October."
+-
+  name:  Yellow-browed Warbler
+  latin: Phylloscopus inornatus
+  text:  "The first record of this scarce but increasing migrant from Siberia was on HGC on September 29th 1997. Further records of single birds, usually first located by their distinctive calls are:- October 3rd 2003 by Sandgrounder's Hide, October 4th 2012 at Marshside Bird Observatory and October 6 th 2012 on HGC, probably the same bird, and again on HGC on September 29th2014. One was noted on November 3rd 2015. A huge influx occurred in the UK in the almost continual easterly airflow of late September/ mid October 2016 and at least two were seen/heard in the period October 5th-15th 2016."
+-
+  name:  Wood Warbler
+  latin: Phylloscopus sibilatrix
+  text:  "A scarce spring passage migrant, usually in the first weeks of May and invariably singing from the central copse on HGC. Breeding numbers in Lancashire have declined further since 2000, but it's still a relatively common bird in mature oak and beech woodlands in North Wales and from Cumbria northwards into Scotland. The mean first arrival date for Lancashire is April 23rd."
+-
+  name:  Chiffchaff
+  latin: Phylloscopus collybita
+  text:  "The first of the warblers to return in spring, the welcome but repetitive song of the Chiffchaff is usually heard from early March, However, as increasing numbers are now overwintering, it's becoming more difficult to differentiate which have just arrived. Five pairs bred on HGC in 2014."
+-
+  name:  Willow Warbler
+  latin: Phylloscopus trochilus
+  text:  "A common spring and autumn migrant with a mean first arrival date in Lancashire of March 29th. Until the early 2000s, between four to six pairs nested on HGC each year, but in recent years they have disappeared to be replaced by Chiffchaffs, as appears to be the case from many other lowland sites.. 'Falls' of migrant sometimes occur, such as April 23rd 2014 when 39 were counted on HGC."
+-
+  name:  Blackcap
+  latin: Sylvia atricapilla
+  text:  "An abundant migrant and common breeding species, with increasing numbers over-wintering. As with the Chiffchaff, it is becoming increasingly difficult to separate true migrants from winter visitors as the melodious song of the 'Northern Nightingale' can now be heard from early March onwards. At least eight males were on territory on HGC in 2015."
+-
+  name:  Garden Warbler
+  latin: Sylvia borin
+  text:  "In the early 1990s up to three pairs nested on HGC, but since 2000, it has reverted to its former status as an uncommon spring migrant. The mean first arrival date for Lancashire is April 19th, but it's usually the last week of April/early May before we record our usual one/two migrant birds."
+-
+  name:  Barred Warbler
+  latin: Sylvia nisoria
+  text:  "A juvenile was found near Crossens Water Treatment plant on a typical date of September 16th 1967"
+-
+  name:  Lesser Whitethroat
+  latin: Sylvia curruca
+  text:  " A regular spring migrant, albeit in small numbers, with a mean first arrival date of April 19th. A pair held territory near Crossens, just on the edge of the recording area, in 1996/7 but not since."
+-
+  name:  Common Whitethroat
+  latin: Sylvia cantillans
+  text:  "Our commonest breeding warbler, the Whitethroat increased steadily throughout the 1990s, so that by 2004 a record 38 pairs were noted throughout the reserve. In 2015 this had reduced to 28 pairs, possibly due to on-going scrub management to encourage the populations of small mammals. The mean first arrival date in Lancashire is April 15th."
+-
+  name:  Grasshopper Warbler
+  latin: Locustella naevia
+  text:  "'Groppers' are secretive and would hardly ever be recorded, if it wasn't for the distinctive 'reeeeeeling' song of the male, deep within the brambles and overgrown edges. Their mean first arrival date is April 15th and in some years several birds can be heard around the reserve. In 2016 males sang for over a month or more below the bench at Wheatear Corner and from near the viewing screen at Junction Pool."
+-
+  name:  Savi's Warbler
+  latin: Locustella luscinioides
+  text:  "The only record of this close relative of the Grasshopper Warbler was on April 28th 1977 – some 39 years ago and surely another is due shortly?"
+-
+  name:  Sedge Warbler
+  latin: Acrocephalus schoenobaenus
+  text:  "A common migrantbreeding species and passage migrant with a mean Lancashire first arrival date of April 12th, they are usually first recorded from the SSSI ditch in the SE corner of Rimmer's marsh. In the early 1990s the breeding population had increased to 27 pairs, but by 2014 this had reduced to 18 pairs, again perhaps due to recent scrub management (see Whitethroat). In 2014, an almost pure white _leucistic_ male took up territory by Marshside Road"
+-
+  name:  Reed Warbler
+  latin: Acrocephalus scirpaceus
+  text:  "The Reed Warbler was formerly an uncommon migrant to the reserve, with first breeding not recorded until 1990. Numbers have built up ever since, so that by 2015, ten to twelve to ten pairs were on territory. The mean first arrival date in Lancashire is April 14th."
+-
+  name:  Waxwing
+  latin: Bombycilla garrulus
+  text:  "The first record was a flock of &gt;65 which frequented bushes on the coastal road embankment and the Crossens area from October 26th – November 23rd 2010. Another small flock of ten flew over on February 16th 2013."
+-
+  name:  Nuthatch
+  latin: Sitta europaea
+  text:  "A increasing and expanding local resident, since the late 1990s. The first was seen on HGC on April 6th 1997/ The only records since have been of dispersing birds, at HGC on September 11th 2002 and at MBO on September 22nd 2012 and October 6th 2013."
+-
+  name:  Treecreeper
+  latin: Certhia familiaris
+  text:  "A localised breeding resident, this mature woodland specialist was unrecorded until August 8th 2002, when one was seen on HGC, but none have been seen since. They regularly accompany roving tit flocks in winter, so they are probably under-recorded as the nearest breeding site in Hesketh Park, is less than a mile away."
+-
+  name:  Wren
+  latin: Troglodytes troglodytes
+  text:  " One of our commonest breeding residents, with a maximum 33 males loudly proclaiming their territory around the reserve on April 16th 2016, although perhaps some were migrants and moved on later."
+-
+  name:  Starling
+  latin: Sturnus vulgaris
+  text:  "A common breeding resident; winter visitor and occasional passage migrant. &gt;100 pairs of Starlings breed in the housing estates adjacent to the reserve and post-breeding, both adults and juveniles spend their time feeding on the grasslands. In February 2014, around 1,200 Starlings were still frequenting the reserve. Small migrating flocks are regular in autumn and 1,134 south in one hour on September 29th is the highest recent total, but cannot compare with the estimated 10,000 over the saltmarsh on November 11th 1998."
+-
+  name:  Ring Ouzel
+  latin: Turdus torquatus
+  text:  "An uncommon and declining early spring migrant, although most years we still get one/two records. Early March arrivals are not unknown, but the mean earliest arrival date in Lancashire is March 21st Very few have ever been recorded in autumn."
+-
+  name:  Blackbird
+  latin: Turdus merula
+  text:  "A common breeding resident, especially on HGC, with a count throughout the entire recording area on April 4th 2016 producing 17 singing males. Autumn migration of continental birds is concentrated in the period from mid-September to mid-November with a recent maximum VisMig count of 29 on November 10th 2012."
+-
+  name:  Fieldfare
+  latin: Turdus pilaris
+  text:  "This handsome Scandinavian thrush is a regular autumn migrant and uncommon winter visitor. Numbers on dawn VisMig counts have seldom exceeded 100 between late September and late October, with a maximum of 212 on October 11th 2013. The exception was on October 9th 2004. when c 4,000 passed over during the 'great thrush movement'. A few are recorded each year on return migration in late March to end- April."
+-
+  name:  Song Thrush
+  latin: Turdus philomelos
+  text:  "The repetitive, melodic spring song of the Song Thrush can be regularly heard from mid-January onwards. Two/three pairs nest on the edge of the reserve on HGC and near Crossens Water Treatment plant. Recent VisMig totals (2011-15) have never approached the numbers recorded in the late 1980s/90s when 20-30 birds were regular. Maximum recent counts were 19 onOctober 9th 2004 and just 11 on dawn VisMig on October 14th 2012."
+-
+  name:  Redwing
+  latin: Turdus iliacus
+  text:  "A common autumn migrant and scarce winter visitor except for influxes in periods of harsh weather, which thankfully are much less frequent nowadays. One of the largest ever movements of Redwings occurred on October 9th 2004, when an amazing &gt;40,000 birds flew over HGC heading northeast. Only small numbers are recorded in winter and on spring migration"
+-
+  name:  Mistle Thrush
+  latin: Turdus viscivorus
+  text:  "One or two pairs nest on HGC each year and occasional influxes sometimes occur between late September and early November."
+-
+  name:  Spotted Flycatcher
+  latin: Musicapa striata
+  text:  "Like many trans-Saharan migrants, the Spotted Flycatcher has declined significantly, both as a passage migrant and especially as a local breeding species. The mean earliest arrival date in Lancashire is April 30th, but it's usually the second week of May before one or two appear on HGC. The maximum count in recent years was of five on May 12th 2013. Occasional birds drop in on autumn passage from late August until early October."
+-
+  name:  Robin
+  latin: Erithacus rubecula
+  text:  "An abundant breeding resident, passage migrant and winter visitor. Up to a dozen pairs nest throughout the reserve and influxes of migrants occur in autumn from September to early November. The most recent maximum count was 39 on September 29th 2015 but autumn influxes in the early 1990s exceeded 70 birds on several with 85 on September 17th 1993. Up to 20 birds can be found in wintering."
+-
+  name:  Nightingale
+  latin: Luscinia megarhynuho
+  text:  "A Nightingale once sang fromMay 20 – 24th 1980 in the shrubbery by Crossens Water Treatment Works."
+-
+  name:  Bluethroat
+  latin: Luscinia sveccia
+  text:  "Marshside has had no less than four records of this scarce spring migrant between mid March and early June, but all pre-2000. Both red and white-spotted races have occurred."
+-
+  name:  Pied Flycatcher
+  latin: Ficedula hypoleuca
+  text:  "A regular spring migrant, which has declined as a breeding species in the UK. That said, its status is virtually unchanged from that stated in the _'Birds of Marshside',_ 2000. The mean earliest arrival date is April 15th and usually one or two are reported each year from mid -April to early May. Some years the occasional bird is also recorded on autumn migration."
+-
+  name:  Black Redstart
+  latin: Phoenicurus ochruros
+  text:  "Once a irregular visitor, especially to the Sand Plant compound, the 10th record was of a bird that spent the winter around the cattle pens off Marshside Road from December 1999 to April 2000. The only record since was of a female on April 8th 2015."
+-
+  name:  Common Redstart
+  latin: Phoenicurus phoenicurus
+  text:  "A regular spring passage migrant in small numbers from mid-April to mid-May, with only a few birds recorded on autumn passage. The mean earliest arrival in Lancashire is April 9th, with the earliest recorded at Marshside on March 29th 1981."
+-
+  name:  Whinchat
+  latin: Saxicola rubetra
+  text:  "A declining spring migrant to Lancashire, with an earliest mean arrival date of April 20th. Pre-2000, substantial falls were reported with for example, 44 on May 9th 1982, 31 on May 11th 1992 and 22 on May 6th 1997. . These days, in line with the overall decline in numbers, peak passage in early May seldom produces totals of more than ten birds, with a recent maximum of nine on May 9th 2016. Autumn passage is virtually non-existent with just two records in the last 16 years."
+-
+  name:  Stonechat
+  latin: Saxicola rubicola
+  text:  "Following a drastic decline in the late 1980s/early 1990s and recent setbacks due to severe winter weather in 2010/12, it's good to record the current recovery in numbers of both migrant and breeding Stonechats. Until the mid-1980s, one or two pairs bred on what is now the reserve, with a pair also present in 2006, but breeding has not been confirmed since. Dawn VisMig sessions between 2012 and 2016 averaged 10 birds per year in the period February 27th and April 18th. Up to four birds can be seen around the reserve in most winters, especially along the edge of the saltmarsh."
+-
+  name:  Wheatear
+  latin: Oenanthe oenanthe
+  text:  "A common, sometimes abundantspring migrant with much smaller numbers recorded in autumn. The mean earliest arrival date for Lancashire is March 10th, with 100 plus recorded on April 23rd 1980; this was at a time when &gt; 40 birds per day was not exceptional. More recent VisMig counts have produced average totals of 196 between April 26th – 17th May 2012 and 186 between April 12th- June 2nd 2013 and a maximum day total of 63 on April 30th 2012. Most of the migrants from early-May are of the larger Greenland (and Iceland) race _leucorhoa._ Autumn passage is much less obvious and the latest everrecorded was one at MBO on November 22nd 2013. A pair attempted to breed in a rabbit hole at the Sand Plant in 1993 but was unsuccessful."
+-
+  name:  Dunnock
+  latin: Prunella modularis
+  text:  "A fairly common breeding resident with occasional influxes in autumn/winter. 13 singing males were counted around the reserve on April 16th 2016, eight on HGC and the rest along the coastal road, MBO and Crossens."
+-
+  name:  House Sparrow
+  latin: Passer domesticus
+  text:  "Breeds in the housing estates on the edge of Sutton's marsh and often feeds on the reserve. Has also colonised the bushes and shrubbery on the edge of the coastal road and Marshside Road. A noisy flock of 98 was counted in the long hedgerow adjacent to Stanley School playing fields on September 8th 2012."
+-
+  name:  Tree Sparrow
+  latin: Passer montanus
+  text:  " Until 1986, this threatened species was commonly seen along the coastal road embankment and near Crossens Water treatment works. The current situation suggests some stabilisation in the breeding population, helped by both nesting box and winter feeding initiatives, Small numbers have been noted on spring VisMigs, two north on May 15th 2013, a single on 10th April 2015, two on May 10th the same year and four in the MBO bushes on October 5th 2016."
+-
+  name:  Yellow Wagtail
+  latin: Motacilla flava flavissima
+  text:  "Believe it or not Marshside once witnessed an amazing fall of 300 stunning Yellow Wagtails, but that was 38 years ago on May 3rd 1978. A catastrophic decline had set in by the mid-1980s and nowadays spring migrant numbers remain very low. The mean earliest arrival date in Lancashire is April 10th and VisMig counts from 2012 to 2016 have barely exceeded 10 in a period extending from mid-April to early June, with a peak of 19 in spring 2013. One or two pairs still nest on the nearby mosslands and a Blue-headed male _flava_ is reported every few years. Autumn passage is almost non-existent."
+-
+  name:  Grey Wagtail
+  latin: Motacilla cinerea
+  text:  " A regular autumn migrant in small numbers between late September and mid-October and an uncommon, early spring, migrant between mid-March and early April. The peak count on autumn VisMig is of 24 individuals between September 22nd and October 27th 2012. It now regularly breeds in central Southport, with at least three pairs in 2016 and winter roosts contain &gt; 20 birds"
+-
+  name:  Pied/White Wagtail
+  latin: Motacilla alba yarelli/alba
+  text:  "A breeding survey of the recording area on April 16th 2016, found five pairs of Pied Wagtails, probably around the average number. Migrants return from late February and pass through until the end of April, with the highest VisMig count at MBO of 24 on March 31st 2014. Autumn passage is less pronounced and lasts from mid October to early November. The distinctive, nominate race alba breeds on Iceland and is perhaps more common on spring and autumn migration than _yarelli._ They pass through slightly later on spring migration and often in larger flocks, for example 53 on April 21st and 62 on April 27th 2013. In autumn mixed flocks occur and counts are usually only made of _alba_ sp. counts in October are the range of 20-40 per VisMig."
+-
+  name:  Richard's Pipit
+  latin: Anthus richardii
+  text:  "One was within the former sand plant compound on January 16th 1995 and another at the same location from October 29th the same year. Since then, one frequented Crossens Outer between October 19th and 22nd 2003."
+-
+  name:  Tree Pipit
+  latin: Anthus trivialis
+  text:  "This classic spring migrant is regular invariable numbers and the mean first arrival date in Lancashire is April 5th. Arrivals at Marshside are concentrated in the period mid April-mid May, with a peak day VisMig total of 12 on May 3rd 2013. The earliest ever was one on March 28th 1997 and the latest September 29th 1995."
+-
+  name:  Meadow Pipit
+  latin: Anthus pratensis
+  text:  "Although declining nationally as a breeding species, Marshside still hosted 24 pairs in 2014, but it's as the 'default' abundant migrant that Mipits are better known to VisMig afficionados. Large movements occur on a regular basis such as on March 29th/30th 2014, when some 973 and 625 headed north respectively, during a two-hour dawn watch and a combined total of 2,130 for spring passage that year. Autumn passage can also be impressive with for example 625 south in two hours on September 22nd and 466 on September 27th 2015. Occasionally weather conditions and the timing of movements combine to produce quite extraordinary numbers, such as the estimated 1,500 per hour passing southeast on a broad front in light easterly winds, from dawn on Saturday, October 1st 2011; a movement which was reported as lasting much of the day, albeit in reducing numbers. As up to a million pairs breed in Iceland it's perhaps not too surprising that good numbers of migrant Mipits are seen at Marshside"
+-
+  name:  Red-throated Pipit
+  latin: Anthus cervinus
+  text:  "The first record of this Fenno-Scandinavian pipit, was of one seen flying over the old sand plant compound on November 1st 1995. The second was seen and heard over the coast road on October 20th 2009."
+-
+  name:  Rock Pipit
+  latin: Anthus petrosus
+  text:  "Studies have shown that Rock Pipits of the nominate British race _petrosus_ are almoat entirely sedentary all year on their favoured rocky shorelines, of which Lancashire has almost none – although surely young birds must be moved on by their parents post-breeding? This leaves the highly migratory Scandinavian race _littoralis_ to overwinter on our salt marshes. To add to the debate, in spring some assume a breeding plumage, which very closely resembles that of the continental Water Pipit _Anthus spinoletta._ Rock Pipits are not often seen in winter and are usually only observed when the high spring tides flood the salt marshes, pushing them into viewing range."
+-
+  name:  Water Pipit
+  latin: Anthus spinoletta
+  text:  "Only split from Rock Pipit in 1986, the status of this central European, high-altitude specialist wintering on the Ribble saltmarshes, has been the subject of considerable debate. Records have been fairly regular from the area of Crossens Water Treatment plant since the late 1970s and new identification criteria has enabled several local wintering sites to be closely monitored. Warton Bank, on the north shore of the Ribble Estuary, was found to have an amazing 19 Water Pipits on March 30th 1998, but Marshside too has shared in this bounty over the years with three present on November 27th 2011 and in subsequent years. From late February to early May 2016, up to four Water Pipits were again wintering on Crossens Out Marsh."
+-
+  name:  Brambling
+  latin: Fringilla montifringilla
+  text:  "Now an uncommon passage migrant and winter visitor. Up to the late 1980s Bramblings were fairly regular winter visitors, but by 2000 had become very scarce. Dawn VisMig between October 2011 and the end of 2015 produced the grand total of one bird on November 10th 2012. The earliest autumn arrival in Lancashire was of one recorded at Marshside on September 13th 1999."
+-
+  name:  Chaffinch
+  latin: Fringilla coelebs
+  text:  "A common regular breeding resident, with around eight pairs in 2015, most on HGC. Autumn VisMig sees migrants pass through in small flocks between early September and early November with a maximum count in recent years of 25 on October 5th 2014."
+-
+  name:  Bullfinch
+  latin: Pyrrhula pyrrhula
+  text:  " A very scarce late autumn migrant and winter visitor and several years can go by without any records at all. Only four recorded pre-2000, with only three singles recorded during VisMig counts on October 6th 2013; October 11th 2012 and February 16th 2013."
+-
+  name:  Greenfinch
+  latin: Carduelis chloris
+  text:  "Much more regular than Chaffinch on two hours dawn VisMig. 2013 was seemingly a good year for Greenfinch passage with 203 counted from September 4th–October 13th and a peak on the last date of 107. However, on September 27th 2015, some 272 flew south in just two hours, the peak total on recent VisMig watches. Spring passage from mid April – mid May is much more muted, with only one/two birds noted. Two males held territory in spring 2016."
+-
+  name:  Linnet
+  latin: Linaria cannabina
+  text:  "A fairly common year-round resident and passage migrant in both spring and autumn. A total of 21 pairs bred in 2014, which is a great improvement on the five pairs that bred in 1999. During spring passage in 2013, 182 were counted between April 6th and May 10th with peaks of 37 on April 21st, 36 on April 2nd and 30 on April 25th. Autumn numbers are much lower with just small flocks recorded."
+-
+  name:  Twite
+  latin: Linaria flavirostris
+  text:  "Currently up to 100 birds winter just north of Southport Pier ranging as far south as Weld Road. However, on the reserve itself they are decidedly scarce and have been so since the mid 1990s, when flocks of around 50 were regular. Occasional birds still turn up at MBO, such as 82 on the old sand road on February 16th 2014, probably the pier flock, and six that flew over north at dawn during a two-hour Vismig watch on March 6th the same year. A flock of 108, probably the regular Pier flock, flew over high south on September 27th 2015."
+-
+  name:  Lesser Redpoll
+  latin: Acanthis cabaret
+  text:  "Formerly bred on HGC from the mid 1980s until at least 1992, when a record 12 pairs nested. This localised breeding population then declined to zero by 1999. It's also regular spring migrant with small parties passing over between mid-March and mid-May. 2012 was a particularly good year with 217 recorded and a peak of 55 on both May 1st and 3rd 2012. Only very few are recorded on return migration in October and November."
+-
+  name:  Common (Mealy) Redpoll
+  latin: Acanthis flammea
+  text:  "Not split from Lesser Redpoll until 2005, recent ringing studies show they apparently do occur with Lessers, but in a ratio of c.1:150. There are only five records of seven birds :- the first on April 12th plus two on May 7th 2006; a male singing on HGC on May 6th 2008 plus two on November 6th 2011."
+-
+  name:  Common Crossbill
+  latin: Loxia curvirostra
+  text:  "Despite regular flocks in the Birkdale pinewoods, Crossbills are extremely rare visitors to Marshside. The first record was on April 5th 2003 when five briefly landed in trees by the central copse on HGC, The only other records are of one north with a rush of migrants on May 1st 2012 and two south on Oct 7th the same year. Two were flushed from the central copse on HGC on October 8th 2016."
+-
+  name:  Goldfinch
+  latin: Carduelis carduelis
+  text:  "15 singing males were counted throughout the reserve on May 12th 2016, although the old sea wall along the NE edge of the reserve was not covered. The Goldfinch has expanded its range northwards into Scotland since 2000 and recent population estimates there, exceed 20,000 pairs. Accordingly it has become a much more regular passage migrant, particularly in spring. Birds have been recorded on active VisMig from mid-February to the end of May and from early September to the end of October. In spring 2012 no less than 1,811 Goldfinches passed over MBO, with a peak of 707 in three hours from dawn on May 1st. Autumn totals are also significant, with for example 897 counted in 2012 and a two-hour peak of 212 on September 22nd 2013."
+-
+  name:  Siskin
+  latin: Spinus spinus
+  text:  "A common passage spring passage migrant with 154 counted between April 24th and May 18 2014 and a peak of 92 on May 3rd. Small numbers appear on return migration between end September and early November, with the largest flock of 34 on November 2nd 2012."
+-
+  name:  Snow Bunting
+  latin: Plectrophenax nivalis
+  text:  "Up to the 1980s, small flocks regularly wintered at Marshside, but by 2000 had all but disappeared. The most recent record is of a single bird, which flew over MBO calling on November 16th 2011."
+-
+  name:  Lapland Bunting
+  latin: Calcarius lapponicus
+  text:  "A very scarce autumn migrant winter visitor, which has declined to one record every five/six years."
+-
+  name:  Ortolan Bunting
+  latin: Emberiza hortulana
+  text:  "The only record of this fast-declining _emberiza_ was of an individual on October 31st 1973."
+-
+  name:  Yellowhammer
+  latin: Emberiza citronella
+  text:  "Always a scarce visitor recent population declines has made it even more so. Three different individuals on spring passage in late April/early May 2012 are the only recent records."
+-
+  name:  Reed Bunting
+  latin: Emberiza schoeniclus
+  text:  "With nine pairs nesting in 2015, the simple but persistent song of the male Reed Bunting is usually heard from the edges of the saltmarsh from mid-March onwards. They are also regularly recorded on autumn VisMig counts between end-September and end-October, with a maximum count of 17 on October 17th 2014. Very few, if any, over-winter on the reserve itself."
+-
+  name:  Corn Bunting
+  latin: Emberiza calandra
+  text:  "Another depressing tale of a declining farmland bird, which used to winter in reasonable numbers on the saltmarsh. By 2000 they had almost disappeared with perhaps the odd pair still nesting on the edge of Crossens Outer saltmarsh. Recorded recently on VisMig with one amongst other migrants at MBO on March 30th 2014."

@@ -15,7 +15,7 @@ All but six of the species are British Ornithological Union (BOU) Category A, (t
 
 Greylag Goose, Ruddy Duck, Red-legged Partridge and Feral Pigeon are all Category C species, which although originally introduced by man, currently derive from subsequent self-sustaining populations.
 
-The only BOU Category D species, Ross's Goose, is a species which would have appeared in Category A, except that there is reasonable doubt that it has have ever occurred in a natural state im the UK and as such is not counted in the above total. Category E species—introductions, human-assisted transportations or escapees from captivity—are also not included, perhaps the most notable of which were a pair of Harris Hawks that nested just off the reserve at Banks.
+The only BOU Category D species, Ross's Goose, is a species which would have appeared in Category A, except that there is reasonable doubt that it has have ever occurred in a natural state in the UK and as such is not counted in the above total. Category E species—introductions, human-assisted transportations or escapees from captivity—are also not included, perhaps the most notable of which were a pair of Harris Hawks that nested just off the reserve at Banks.
 
 Records highlighted in yellow have not been included in the current species total and only those records fully accepted by the Lancashire Birds Records Committee (LBRC) or the British Birds Rarities Committee (BBRC) are included in the total of 257.
 
@@ -27,4 +27,4 @@ My grateful thanks also go to those who regularly post their sightings on the Ri
 
 ## WEB EDITION
 
-Web edition developed and maintained by David Tyler
+Web edition developed and maintained by David Tyler.

@@ -7,14 +7,14 @@
 
 # Site settings
 title: Birds of Marshside
-email: your-email@domain.com
+email: nqzva@oveqfbsznefufvqr.hx
 description: > # this means to ignore newlines until "baseurl:"
-  An annotated checklist of the of the BOU Category A, B & C species 
+  An annotated checklist of the of the bird species 
   that have been recorded within and/or from the recording area of Marshside RSPB Reserve.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: 
-github_username:  
+github_username: dtylr/bom
 
 # Build settings
 markdown: kramdown

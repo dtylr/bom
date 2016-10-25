@@ -2,7 +2,7 @@
 layout: default
 title: The List
 ---
-<img src="img/dunlin1.jpg" alt="">
+<img src="img/dunlin1.jpeg" alt="Dunlin" width="800" height="376">
 
 <div class="home">
 

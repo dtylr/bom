@@ -25,6 +25,7 @@ var searchBox = document.getElementById("search");
 var message = document.getElementById("message");
 var list = document.getElementById("bird-list");
 var items = list.getElementsByTagName("li");
+var categories = {{ site.data.categories | jsonify }}
 
 function slugify(Text) {
     return Text
@@ -40,22 +41,43 @@ function showAll() {
     }
 }
 
-function show(Text) {
+function show(term) {
         var emptyList = true;
+        if( term in categories ) {
+            showCategory(term);
+            emptyList = false;
+        } else {
         for (var i = 0; i < items.length; i++) {
-            if ( items[i].getAttribute("id").indexOf(Text) !== -1 ) {
+            if ( items[i].getAttribute("id").indexOf(term) !== -1 ) {
                 items[i].style.display = "";
                 emptyList = false;
             } else {
                 items[i].style.display = "none";
-            };
-        if ( emptyList ) {
-            message.style.display = "block";
-        } else {
-            message.style.display = "none";
+            }
         }
     }
+    if ( emptyList ) {
+        message.style.display = "block";
+    } else {
+        message.style.display = "none";
+    }
 }
+
+function showCategory(category) {
+    var categorySlugs = [];
+    for (var i = 0; i < categories[category].length; i++ ) {
+        categorySlugs.push(slugify(categories[category][i]));
+    };
+    for (var i = 0; i < items.length; i++) {
+        if ( categorySlugs.indexOf(items[i].getAttribute("id")) !== -1 ) {
+            items[i].style.display = "";
+            emptyList = false;
+        } else {
+            items[i].style.display = "none";
+        };    
+    };
+};
+
 searchBox.onkeyup = function(evt) {
     var term = slugify(searchBox.value);
         if (term) {

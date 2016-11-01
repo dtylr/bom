@@ -1,0 +1,365 @@
+wildfowl:
+  - Mute Swan
+  - Bewick's Swan
+  - Whooper Swan
+  - Bean Goose
+  - Pink-footed Goose
+  - White-fronted Goose
+  - Lesser White-fronted Goose
+  - Greylag Goose
+  - Snow Goose
+  - Ross's Goose
+  - (Greater) Canada Goose
+  - Lesser Canada (Cackling) Goose
+  - Barnacle Goose
+  - Brent Goose
+  - Red-breasted Goose
+  - Shelduck
+  - Wigeon
+  - American Wigeon
+  - Gadwall
+  - Baikal Teal
+  - Eurasian Teal
+  - Green-winged Teal
+  - Mallard
+  - Pintail
+  - Garganey
+  - Blue-winged Teal
+  - Shoveller
+  - Pochard
+  - Tufted Duck
+  - Scaup
+  - Lesser Scaup
+  - Eider
+  - Harlequin Duck
+  - Long-tailed Duck
+  - Common Scoter
+  - Velvet Scoter
+  - Goldeneye
+  - Smew
+  - Red-breasted Merganser
+  - Goosander
+  - Ruddy Duck
+swans:
+  - Mute Swan
+  - Bewick's Swan
+  - Whooper Swan
+geese:
+  - Bean Goose
+  - Pink-footed Goose
+  - White-fronted Goose
+  - Lesser White-fronted Goose
+  - Greylag Goose
+  - Snow Goose
+  - Ross's Goose
+  - (Greater) Canada Goose
+  - Lesser Canada (Cackling) Goose
+  - Barnacle Goose
+  - Brent Goose
+  - Red-breasted Goose
+ducks:
+  - Shelduck
+  - Wigeon
+  - American Wigeon
+  - Gadwall
+  - Baikal Teal
+  - Eurasian Teal
+  - Green-winged Teal
+  - Mallard
+  - Pintail
+  - Garganey
+  - Blue-winged Teal
+  - Shoveller
+  - Pochard
+  - Tufted Duck
+  - Scaup
+  - Lesser Scaup
+  - Eider
+  - Harlequin Duck
+  - Long-tailed Duck
+  - Common Scoter
+  - Velvet Scoter
+  - Goldeneye
+  - Smew
+  - Red-breasted Merganser
+  - Goosander
+  - Ruddy Duck
+gamebirds:
+  - Quail
+  - Red-legged Partridge
+  - Grey Partridge
+  - Pheasant
+divers:
+  - Red-throated Diver
+  - Black-throated Diver
+loons:
+  - Red-throated Diver
+  - Black-throated Diver
+seabirds:
+  - Fulmar 
+  - Manx Shearwater
+  - Leach's Petrel
+  - Gannet
+cormorants:
+  - Cormorant
+herons:
+  - Bittern
+  - Cattle Egret
+  - Little Egret
+  - Great White Egret
+  - Grey Heron
+  - Purple Heron
+storks:
+  - Black Stork
+  - White Stork
+grebes:
+  - Little Grebe
+  - Great Crested Grebe
+  - Slavonian Grebe
+  - Black-necked Grebe
+raptors:
+  - Honey buzzard
+  - Red Kite
+  - Marsh Harrier
+  - Hen Harrier
+  - Montagu's Harrier
+  - Goshawk
+  - Sparrowhawk
+  - Common Buzzard
+  - Rough-legged Buzzard
+  - Osprey
+  - Kestrel
+  - Red-footed Falcon
+  - Merlin
+  - Hobby
+  - Peregrine
+birds-of-prey:
+  - Honey buzzard
+  - Red Kite
+  - Marsh Harrier
+  - Hen Harrier
+  - Montagu's Harrier
+  - Goshawk
+  - Sparrowhawk
+  - Common Buzzard
+  - Rough-legged Buzzard
+  - Osprey
+  - Kestrel
+  - Red-footed Falcon
+  - Merlin
+  - Hobby
+  - Peregrine
+rails:
+  - Water Rail
+  - Spotted Crake
+  - Moorhen
+  - Coot
+cranes:
+  - Common Crane
+waders:
+  - Black-winged Stilt
+  - Avocet
+  - Oystercatcher
+  - Grey Plover
+  - Golden Plover
+  - American Golden Plover
+  - Dotterel
+  - Ringed Plover
+  - Little Ringed Plover
+  - Lapwing
+  - Kentish Plover
+  - Whimbrel
+  - Curlew
+  - Black-tailed Godwit
+  - Bar-tailed Godwit
+  - Turnstone
+  - Knot
+  - Ruff
+  - Broad-billed Sandpiper
+  - Curlew Sandpiper
+  - Temminck's Stint
+  - Sanderling
+  - Dunlin
+  - Purple Sandpiper
+  - Baird's Sandpiper
+  - Little Stint
+  - Buff-breasted Sandpiper
+  - White-rumped Sandpiper
+  - Pectoral Sandpiper
+  - Wilson's Phalarope
+  - Red-necked Phalarope
+  - Grey Phalarope
+  - Common Sandpiper
+  - Green Sandpiper
+  - Spotted Redshank
+  - Greenshank
+  - Lesser Yellowlegs
+  - Marsh Sandpiper
+  - Wood Sandpiper
+  - Redshank
+  - Jack Snipe
+  - Long-billed Dowitcher
+  - Woodcock
+  - Common Snipe
+  - Great Snipe
+skuas:
+  - Pomarine Skua
+  - Arctic Skua
+  - Long-tailed Skua
+  - Great Skua
+guillemots:
+  - Black Guillemot
+  - Guillemot
+terns:
+  - Little Tern
+  - Black Tern
+  - White-winged Black Tern
+  - Sandwich Tern
+  - Common Tern
+  - Roseate Tern
+  - Arctic Tern
+gulls:
+  - Kittiwake
+  - Black-headed Gull
+  - Little Gull
+  - Ross's Gull
+  - Mediterranean Gull
+  - Common Gull
+  - Ring-billed Gull
+  - Lesser Black-backed Gull
+  - Herring Gull
+  - Yellow-legged Gull
+  - Iceland Gull
+  - Glaucous Gull
+  - Great Black–backed Gull
+pigeons:
+  - Rock Dove/Feral Pigeon
+  - Stock Dove
+  - Woodpigeon
+  - Collared Dove
+  - Turtle Dove
+cuckoos:
+  - Cuckoo
+owls:
+  - Barn Owl
+  - Little Owl
+  - Tawny Owl
+  - Long-eared Owl
+  - Short-eared Owl
+woodpeckers:
+  - Wryneck
+  - Great Spotted Woodpecker
+falcons:
+  - Kestrel
+  - Red-footed Falcon
+  - Merlin
+  - Hobby
+  - Peregrine
+shrikes:
+  - Red-backed Shrike
+  - Great Grey Shrike
+  - Woodchat Shrike
+crows:
+  - Magpie
+  - Jay
+  - Jackdaw
+  - Rook
+  - Carrion Crow
+  - Hooded Crow
+  - Raven
+crests:
+  - Goldcrest
+  - Firecrest
+tits:
+  - Blue Tit
+  - Great Tit
+  - Coal Tit
+  - Bearded Tit
+  - Long-tailed Tit
+larks:
+  - Skylark
+  - Shore Lark
+hirundines:
+  - Sand Martin
+  - Barn Swallow
+  - House Martin
+warblers:
+  - Cetti's Warbler
+  - Yellow-browed Warbler
+  - Wood Warbler
+  - Chiffchaff
+  - Willow Warbler
+  - Blackcap
+  - Garden Warbler
+  - Barred Warbler
+  - Lesser Whitethroat
+  - Common Whitethroat
+  - Grasshopper Warbler
+  - Savi's Warbler
+  - Sedge Warbler
+  - Reed Warbler
+thrushes:
+  - Ring Ouzel
+  - Blackbird
+  - Fieldfare
+  - Song Thrush
+  - Redwing
+  - Mistle Thrush
+chats:
+  - Nightingale
+  - Bluethroat
+  - Black Redstart
+  - Common Redstart
+  - Whinchat
+  - Stonechat
+flycatchers:
+  - Spotted Flycatcher
+  - Pied Flycatcher
+  - Robin
+accipiters:
+  - Dunnock
+sparrows:
+  - House Sparrow
+  - Tree Sparrow
+wagtails:
+  - Yellow Wagtail
+  - Grey Wagtail
+  - Pied/White Wagtail
+pipits:
+  - Richard's Pipit
+  - Tree Pipit
+  - Meadow Pipit
+  - Red-throated Pipit
+  - Rock Pipit
+  - Water Pipit
+finches:
+  - Brambling
+  - Chaffinch
+  - Bullfinch
+  - Greenfinch
+  - Linnet
+  - Twite
+  - Lesser Redpoll
+  - Common (Mealy) Redpoll
+  - Common Crossbill
+  - Goldfinch
+  - Siskin
+buntings:
+  - Snow Bunting
+  - Lapland Bunting
+  - Ortolan Bunting
+  - Yellowhammer
+  - Reed Bunting
+  - Corn Bunting
+singletons:
+  - Glossy Ibis
+  - Spoonbill
+  - Nightjar
+  - Common Swift
+  - Kingfisher
+  - Waxwing
+  - Nuthatch
+  - Treecreeper
+  - Wren
+  - Starling
+  - Golden Oriole

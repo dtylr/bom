@@ -1,8 +1,3 @@
----
-layout: page
-title: About
-permalink: /about/
----
 <img src="{{ site.github.url }}/img/landscape1.jpg" alt="">
 
 # BIRDS of MARSHSIDE 2

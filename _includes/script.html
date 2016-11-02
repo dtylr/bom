@@ -1,0 +1,94 @@
+<script>
+var searchBox = document.getElementById("search");
+var message = document.getElementById("message");
+var list = document.getElementById("bird-list");
+var items = list.getElementsByTagName("li");
+var extras = list.getElementsByClassName("yellow").length;
+var total = items.length;
+var netTotal = items.length - extras;
+var totalString = " " + total + " (" + netTotal + " + " + extras + ")"
+var count = document.getElementById("count");
+var categories = {{ site.data.categories | jsonify }}
+
+function slugify(Text) {
+    return Text
+        .toLowerCase()
+        .replace(/[^\w]+/g, " ")
+        .replace(/\s+/g, "-");
+}
+
+function showAll() {
+        for (var i = 0; i < items.length; i++) { 
+        items[i].style.display = "";
+        count.innerHTML = "Showing all " + totalString + " species."
+    }
+}
+
+function show(term) {
+        var shownItems = 0;
+        var resultType = "match";
+        if( term in categories ) {
+            resultType = term;
+            var categorySlugs = [];
+            for (var i = 0; i < categories[term].length; i++ ) {
+                categorySlugs.push(slugify(categories[term][i]));
+            };
+            for (var i = 0; i < items.length; i++) {
+                if ( categorySlugs.indexOf(items[i].getAttribute("id")) !== -1 ) {
+                    items[i].style.display = "";
+                    shownItems++;
+                } else {
+                    items[i].style.display = "none";
+                };    
+            };
+        } else {
+        for (var i = 0; i < items.length; i++) {
+            if ( items[i].getAttribute("id").indexOf(term) !== -1 ) {
+                items[i].style.display = "";
+                shownItems++;
+            } else {
+                items[i].style.display = "none";
+            }
+            if (shownItems > 1) resultType = "matches";
+        }
+    }
+    if ( shownItems == 0 ) {
+        count.innerHTML = "Nothing matches this search.";
+    } else {
+        count.innerHTML = "Showing " + shownItems + " " + resultType;
+    }
+}
+
+searchBox.onkeyup = function(evt) {
+    var term = slugify(searchBox.value);
+        if (term) {
+            show(term);
+        } else {
+            showAll();
+        }
+};
+
+// Single-page-app
+
+var sections = document.getElementsByTagName("section");
+var links = document.getElementsByClassName("page-link");
+
+function render(url) {
+
+    var route = url.split('#')[1];
+
+    for (var i = 0; i < sections.length; i++) {
+        sections[i].style.display = "none";
+    };
+
+    document.getElementById(route).style.display = "";
+
+}
+
+for (var i = 0; i < links.length; i++) {
+    var target = links[i].href;
+    links[i].onclick = function() { render(this.href); return false; } // 
+    console.log(links[i].innerHTML + " " + target)
+}
+
+</script>

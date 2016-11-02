@@ -2,7 +2,7 @@
 layout: default
 title: The List
 ---
-<section id="list" class="list page">
+<section id="list">
 
     <img src="img/dunlin1.jpeg" alt="Dunlin" width="800" height="376">
     <input id="search"  type="text" placeholder="Search the list" autocomplete="off" autofocus />
@@ -19,10 +19,14 @@ title: The List
 
 </section>
 
-<section id="about" class="about page">
+<section id="about">
     {% capture about %}{% include about.md %}{% endcapture %}
     {{ about | markdownify }}
 </section>
 
+<section id="help" style="display:none">
+    {% capture help %}{% include help.md %}{% endcapture %}
+    {{ help | markdownify }}   
+</section>
 
 {% include script.html %}

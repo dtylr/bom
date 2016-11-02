@@ -224,20 +224,13 @@
     background-color: rgba(255,255,0,0.4);
 }
 
-
-#message {
-    display: none;
-    width: 80%;
-    font-size: 20px;
-    background-color: $warning;
-    border: 2px solid rgba($warning-text,0.4);
-    color: $warning-text;
-    margin: auto;
-    text-align: center;
-    padding: 0.5em;
+#count {
+    text-align: right;
+    color: $grey-color;
+    font-weight: 300;
 }
 
-/**
+/*
  * Posts
  */
 // .post-header {

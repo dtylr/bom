@@ -7,7 +7,7 @@ title: The List
 <div class="home">
 
     <input id="search"  type="text" placeholder="Search the list" autocomplete="off" autofocus />
-
+    <div id="count">Showing all species</div>
     <ul id="bird-list">
         {% for bird in site.data.list %}
             <li id="{{ bird.name | slugify }}" class="{{ bird.highlight }}">
@@ -18,13 +18,16 @@ title: The List
         {% endfor %}
     </ul>
 
-    <div id="message">No species match this search!</div>
-
 <script>
 var searchBox = document.getElementById("search");
 var message = document.getElementById("message");
 var list = document.getElementById("bird-list");
 var items = list.getElementsByTagName("li");
+var extras = list.getElementsByClassName("yellow").length;
+var total = items.length;
+var netTotal = items.length - extras;
+var totalString = " " + total + " (" + netTotal + " + " + extras + ")"
+var count = document.getElementById("count");
 var categories = {{ site.data.categories | jsonify }}
 
 function slugify(Text) {
@@ -37,46 +40,44 @@ function slugify(Text) {
 function showAll() {
         for (var i = 0; i < items.length; i++) { 
         items[i].style.display = "";
-        message.style.display = "none";
+        count.innerHTML = "Showing all " + totalString + " species."
     }
 }
 
 function show(term) {
-        var emptyList = true;
+        var shownItems = 0;
+        var resultType = "match";
         if( term in categories ) {
-            showCategory(term);
-            emptyList = false;
+            resultType = term;
+            var categorySlugs = [];
+            for (var i = 0; i < categories[term].length; i++ ) {
+                categorySlugs.push(slugify(categories[term][i]));
+            };
+            for (var i = 0; i < items.length; i++) {
+                if ( categorySlugs.indexOf(items[i].getAttribute("id")) !== -1 ) {
+                    items[i].style.display = "";
+                    shownItems++;
+                } else {
+                    items[i].style.display = "none";
+                };    
+            };
         } else {
         for (var i = 0; i < items.length; i++) {
             if ( items[i].getAttribute("id").indexOf(term) !== -1 ) {
                 items[i].style.display = "";
-                emptyList = false;
+                shownItems++;
             } else {
                 items[i].style.display = "none";
             }
+            if (shownItems > 1) resultType = "matches";
         }
     }
-    if ( emptyList ) {
-        message.style.display = "block";
+    if ( shownItems == 0 ) {
+        count.innerHTML = "Nothing matches this search.";
     } else {
-        message.style.display = "none";
+        count.innerHTML = "Showing " + shownItems + " " + resultType;
     }
 }
-
-function showCategory(category) {
-    var categorySlugs = [];
-    for (var i = 0; i < categories[category].length; i++ ) {
-        categorySlugs.push(slugify(categories[category][i]));
-    };
-    for (var i = 0; i < items.length; i++) {
-        if ( categorySlugs.indexOf(items[i].getAttribute("id")) !== -1 ) {
-            items[i].style.display = "";
-            emptyList = false;
-        } else {
-            items[i].style.display = "none";
-        };    
-    };
-};
 
 searchBox.onkeyup = function(evt) {
     var term = slugify(searchBox.value);

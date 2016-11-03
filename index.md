@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The List
+title: Home
 ---
 <section id="list">
 

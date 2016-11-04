@@ -9,7 +9,7 @@ var netTotal = items.length - extras;
 var totalString = " " + total + " (" + netTotal + " + " + extras + ")"
 var count = document.getElementById("count");
 var categories = {{ site.data.categories | jsonify }}
-var sections = [help]
+var sections = ["help","about"]
 
 function slugify(Text) {
     return Text
@@ -29,8 +29,8 @@ function show(term) {
         var shownItems = 0;
         var resultType = "match";
         if ( term in sections ) {
-            render(term);
             searchBox.value = "";
+            render(term);
         }
         else if ( term in categories ) {
             resultType = term;
@@ -90,10 +90,17 @@ function render(route) {
 
     window.scrollTo(0,0);
 
+    if (route == 'list') {
+        showAll();
+    }
+
 }
 
 for (var i = 0; i < links.length; i++) {
-    links[i].onclick = function() { render(this.href.split('#')[1]); return false; }
+    links[i].onclick = function() {
+        render(this.href.split('#')[1]);
+        return false;
+    }
 }
 
 var trigger = document.getElementById("trigger");

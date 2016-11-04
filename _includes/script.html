@@ -94,4 +94,15 @@ for (var i = 0; i < links.length; i++) {
     links[i].onclick = function() { render(this.href.split('#')[1]); return false; }
 }
 
+var trigger = document.getElementById("trigger");
+var menuIcon = document.getElementById("menu-icon");
+
+menuIcon.onclick = function() {
+    trigger.classList.toggle("expanded");
+    return false;
+}
+
+
+
+
 </script>

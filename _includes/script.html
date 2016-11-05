@@ -30,6 +30,7 @@ function show(term) {
         var resultType = "match";
         if ( term in sections ) {
             searchBox.value = "";
+            searchBox.blur();
             render(term);
         }
         else if ( term in categories ) {

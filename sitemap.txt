@@ -1,0 +1,9 @@
+---
+sections:
+  - list
+  - about
+  - help
+---
+
+{% for section in page.sections %}
+{{ site.url }}/#{{ section }}{% endfor %}

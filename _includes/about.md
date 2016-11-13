@@ -1,4 +1,4 @@
-<img src="{{ site.github.url }}/img/landscape1.jpg" alt="" width="802" height="443">
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="{{ site.github.url }}/img/landscape1.jpg" alt="" width="802" height="443">
 
 # BIRDS of MARSHSIDE 2
 

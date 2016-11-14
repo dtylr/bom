@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 <section id="list">
-<img src="{% include dunlin.placeholder %}" data-src="{{ site.github.url }}/img/dunlin1.jpeg" alt="Dunlin" width="800" height="376">
+<div class="dunlin"></div>
 
 <input id="search"  type="text" placeholder="Search the list" autocomplete="off" autofocus />
 <div id="count">Showing all species</div>

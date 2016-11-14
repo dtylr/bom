@@ -92,6 +92,15 @@
     }
 }
 
+.dunlin {
+    width: 800px;
+    height: 300px;
+    max-width: 100%;
+    background: url(/img/dunlin1.jpeg);
+    background-size: cover;
+    background-position: top right;
+    @include media-query($on-palm) { height: 140px }
+}
 
 
 /**
@@ -113,6 +122,10 @@
 .social-media-list {
     list-style: none;
     margin-left: 0;
+}
+
+.contact-list li {
+    @include media-query($on-palm) { line-height: 2.5em; }
 }
 
 .footer-col-wrapper {

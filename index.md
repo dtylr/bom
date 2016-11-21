@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+permalink: preview
 ---
 <section id="list">
 <div class="dunlin"></div>

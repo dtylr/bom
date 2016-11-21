@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{page.title}}</title>
+      <style type="text/css">
+	    {% capture include_to_scssify %}
+	      {% include minimal.scss %}
+	    {% endcapture %}
+	    {{ include_to_scssify | scssify }}
+	  </style>
+  </head>
+  <body>
+  	<div class="content">{{ content }}</div>
+  </body>
+</html>

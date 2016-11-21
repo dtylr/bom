@@ -1,0 +1,40 @@
+
+html {
+  font-family: sans-serif; /* 1 */
+  line-height: 1.15; /* 2 */
+  -ms-text-size-adjust: 100%; /* 3 */
+  -webkit-text-size-adjust: 100%; /* 3 */
+}
+
+
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+  text-align: center;
+}
+
+a {
+  background-color: transparent;
+  color: rgb(50,50,200)
+}
+
+
+
+
+a:active,
+a:hover {
+  outline-width: 0;
+}
+
+.content {
+	width: 100%;
+	max-width: 800px;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	padding: 1em 1em;
+}
